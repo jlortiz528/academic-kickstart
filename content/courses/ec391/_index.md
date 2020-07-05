@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: An Example Course
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+linktitle: EC 391: International Economics I
+summary: Teaching evaluation (4.8/5)
 weight: 1
 
 # Page metadata.
@@ -23,13 +23,7 @@ menu:
 
 ## Flexibility
 
-This feature can be used for publishing content such as:
-
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
-
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
+This course explores the causes and consequences of international trade. We begin by posing some guiding questions to focus on throughout the session such as why nations trade, what they trade, and who gains from trade. The session will be divided into three parts. The first part will be devoted to acquiring the skills to answer the questions above. To that end, we begin with a focus on learning the tools of trade theory. The second part of the session will be devoted to analyzing trade policy. The final part of the session will explore additional topics in international trade such as the effects of trade on the labor market and broader topics related to globalization.
 
 ## Delete tutorials
 
@@ -47,16 +41,6 @@ For example, if you delete this folder, you can remove the following from your m
   url = "courses/"
   weight = 50
 ```
-
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
-
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
-
 ## Update the docs menu
 
 If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
