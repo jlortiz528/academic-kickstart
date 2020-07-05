@@ -6,7 +6,7 @@ superuser: true
 authors:
   - admin
 title: Julio Ortiz
-role: Ph.D. Candidate, Boston University Department of Economics
+role: Ph.D. Candidate, Department of Economics
 bio: ""
 interests:
   - Macroeconomics
