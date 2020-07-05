@@ -40,6 +40,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
-**Welcome! I am a PhD candidate in the Economics Department at Boston University.**
+Welcome! I am a PhD candidate in the Economics Department at Boston University.
 
 My research interests are in macroeconomics and econometrics. Specifically, my research focuses on expectations formation and firm dynamics.
