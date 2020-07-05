@@ -18,13 +18,13 @@ social:
     link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/jortiz91
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+  - icon: CV
+    icon_pack: far
+    link: https://drive.google.com/file/d/1V5gYHrPGOmyZHqyHN9-D8sV_WPiJtfKU/view?usp=sharing
 education:
   courses:
     - course: "(Expected) Ph.D. Economics "
