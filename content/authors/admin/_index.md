@@ -24,7 +24,7 @@ social:
     icon: linkedin
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1V5gYHrPGOmyZHqyHN9-D8sV_WPiJtfKU/view?usp=sharing
+    link: "files/cv_2020.pdf"
 education:
   courses:
     - course: "(Expected) Ph.D. Economics "
