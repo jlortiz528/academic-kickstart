@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
+{{% staticref "files/cv_2020.pdf" %}}Download my CV{{% /staticref %}}
