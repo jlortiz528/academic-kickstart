@@ -24,7 +24,7 @@ social:
     icon: linkedin
   - icon: cv
     icon_pack: ai
-    link: '{{% staticref "files/cv.pdf" %}}'
+    link: '{{% staticref "files/cv_2020.pdf" %}}'
 education:
   courses:
     - course: "(Expected) Ph.D. Economics "
