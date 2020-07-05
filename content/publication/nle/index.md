@@ -28,10 +28,9 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: ''
+- name: Appendix
+  url: 'https://drive.google.com/file/d/1ewI7-d4PWUC3xpZ3BouHS5zn-dIW8XKs/view?usp=sharing'
 url_pdf: https://drive.google.com/file/d/1JwEKEC0mO6jmlXdj8gqeJxlVDC36zRxv/view?usp=sharing
-url_appendix: https://drive.google.com/file/d/1ewI7-d4PWUC3xpZ3BouHS5zn-dIW8XKs/view?usp=sharing
 url_code: ''
 url_dataset: ''
 url_poster: ''
