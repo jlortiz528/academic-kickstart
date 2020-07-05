@@ -9,6 +9,10 @@ draft: false
 featured: false
 external_link: https://drive.google.com/file/d/1JwEKEC0mO6jmlXdj8gqeJxlVDC36zRxv/view?usp=sharing
 links:
+  - url: https://drive.google.com/file/d/1JwEKEC0mO6jmlXdj8gqeJxlVDC36zRxv/view?usp=sharing
+    name: Latest draft
+    icon_pack: fas
+    icon: chart-line
   - name: "[Appendix]"
     url: https://drive.google.com/file/d/1ewI7-d4PWUC3xpZ3BouHS5zn-dIW8XKs/view?usp=sharing
   - name: "[Slides]"
