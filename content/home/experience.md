@@ -25,12 +25,7 @@ date_format = "Jan 2006"
   date_start = "2013-06-01"
   date_end = "2015-08-01"
   description = """
-  #Responsibilities include:
-  #
-  #* Analysing
-  #* Modelling
-  #* Deploying
-  #"""
+  """
 
 #[[experience]]
 #  title = "Professor"
