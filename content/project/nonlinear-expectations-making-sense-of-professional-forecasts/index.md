@@ -7,9 +7,8 @@ summary: Professional forecasters tend to over- and underreact to different
   underreactions is the underlying signal-to-noise ratio.
 draft: false
 featured: false
-external_link: https://drive.google.com/file/d/1sikIP4WQq6n6zXZiBuMCpNTJgQs16qIr/view?usp=sharing
-links:
-  - url: https://drive.google.com/file/d/1sikIP4WQq6n6zXZiBuMCpNTJgQs16qIr/view?usp=sharing
+external_link: https://drive.google.com/file/d/1JwEKEC0mO6jmlXdj8gqeJxlVDC36zRxv/view?usp=sharing
+links: []
 image:
   filename: featured
   focal_point: Smart
