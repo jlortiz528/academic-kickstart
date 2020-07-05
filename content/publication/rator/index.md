@@ -28,16 +28,16 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: https://drive.google.com/file/d/1seBnIaMih-u_JljghXfTsdVQjCvxZqBT/view?usp=sharing
+- name: Appendix
+  url: https://drive.google.com/file/d/1h8qERpIeALCLs2AqxeHCGDw8c0SRkw3F/view?usp=sharing
 url_pdf: https://drive.google.com/file/d/1seBnIaMih-u_JljghXfTsdVQjCvxZqBT/view?usp=sharing
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: '#'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
