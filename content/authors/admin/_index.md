@@ -1,12 +1,13 @@
 ---
+title: Julio Ortiz
+role: Ph.D. Candidate, Department of Economics
+avatar_filename: profile3.jpg
 organizations:
   - name: Boston University
     url: ""
 superuser: true
 authors:
   - admin
-title: Julio Ortiz
-role: Ph.D. Candidate, Department of Economics
 bio: ""
 interests:
   - Macroeconomics
