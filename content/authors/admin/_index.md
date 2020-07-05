@@ -36,7 +36,7 @@ education:
     - course: B.S. Economics and International Affairs
       institution: George Washington University
       year: 2013
-email: ""
+email: julio.ortiz91@gmail.com
 user_groups:
   - Researchers
   - Visitors
