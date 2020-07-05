@@ -30,7 +30,7 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
+  url: https://drive.google.com/file/d/1JwEKEC0mO6jmlXdj8gqeJxlVDC36zRxv/view?usp=sharing
 url_pdf: https://drive.google.com/file/d/1JwEKEC0mO6jmlXdj8gqeJxlVDC36zRxv/view?usp=sharing
 url_appendix: 'https://drive.google.com/file/d/1ewI7-d4PWUC3xpZ3BouHS5zn-dIW8XKs/view?usp=sharing'
 url_code: '#'
@@ -61,7 +61,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: https://drive.google.com/file/d/1sikIP4WQq6n6zXZiBuMCpNTJgQs16qIr/view?usp=sharing
+slides: ""
 ---
 
 {{% alert note %}}
