@@ -19,11 +19,11 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/jortiz91
-  - icon: google-scholar
+  - link: https://www.linkedin.com/in/julio-ortiz-52498137/
+    icon_pack: fab
+    icon: linkedin
+  - icon: cv
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: CV
-    icon_pack: far
     link: https://drive.google.com/file/d/1V5gYHrPGOmyZHqyHN9-D8sV_WPiJtfKU/view?usp=sharing
 education:
   courses:
@@ -38,8 +38,7 @@ education:
       year: 2013
 email: julio.ortiz91@gmail.com
 user_groups:
-  - Researchers
-  - Visitors
+  - ""
 ---
 Welcome! I am a PhD candidate in the Economics Department at Boston University.
 
