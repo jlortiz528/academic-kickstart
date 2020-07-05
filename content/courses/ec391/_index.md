@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: EC 391: International Economics I
+linktitle: EC 391--International Economics I
 summary: Teaching evaluation (4.8/5)
 weight: 1
 
