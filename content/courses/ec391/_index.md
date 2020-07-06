@@ -28,6 +28,7 @@ This course explores the causes and consequences of international trade. We begi
 Syllabus {{% staticref "files/ec391_syllabus.pdf" %}} here {{% /staticref %}}
 
 ## Problem Sets
+
 {{% staticref "files/ec391_ps1.pdf" %}} Problem Set 1{{% /staticref %}}
 
 {{% staticref "files/ec391_ps2.pdf" %}} Problem Set 2{{% /staticref %}}
@@ -37,3 +38,7 @@ Syllabus {{% staticref "files/ec391_syllabus.pdf" %}} here {{% /staticref %}}
 {{% staticref "files/ec391_ps4.pdf" %}} Problem Set 4{{% /staticref %}}
 
 ## Exams
+
+{{% staticref "files/ec391_midterm.pdf" %}} Midterm {{% /staticref %}}
+
+{{% staticref "files/ec391_final.pdf" %}} Final {{% /staticref %}}
