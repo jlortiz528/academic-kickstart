@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: EC 391 - International Economics I
-summary: {{% staticref "files/ec391_eval.pdf" %}} Teaching evaluation (4.8/5){{% /staticref %}} 
+summary: {{% staticref "files/ec391_eval.pdf" %}} Teaching evaluation {{% /staticref %}} (4.8/5)
 weight: 1
 
 # Page metadata.
