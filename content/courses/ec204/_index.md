@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: EC 204 - Empirical Economics 2
-summary: Summer 2020
+summary: 
 weight: 1
 
 # Page metadata.
