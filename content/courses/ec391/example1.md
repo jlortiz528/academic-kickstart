@@ -16,8 +16,8 @@ weight: 1
 
 {{% staticref "files/ec391_ps1.pdf" %}} Problem Set 1{{% /staticref %}}
 
-{{% staticref "files/ec391_ps2.pdf" %}} Problem Set 1{{% /staticref %}}
+{{% staticref "files/ec391_ps2.pdf" %}} Problem Set 2{{% /staticref %}}
 
-{{% staticref "files/ec391_ps3.pdf" %}} Problem Set 1{{% /staticref %}}
+{{% staticref "files/ec391_ps3.pdf" %}} Problem Set 3{{% /staticref %}}
 
-{{% staticref "files/ec391_ps4.pdf" %}} Problem Set 1{{% /staticref %}}
+{{% staticref "files/ec391_ps4.pdf" %}} Problem Set 4{{% /staticref %}}
