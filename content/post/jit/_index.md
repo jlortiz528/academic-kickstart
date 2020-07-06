@@ -7,6 +7,6 @@ date: 2019-07-12
 math: false
 diagram: false
 image:
-  placement: 3
+  placement: 
   caption: 
 ---
