@@ -26,3 +26,19 @@ menu:
 This course will focus on the essential questions about functioning of most economies around the world. We will emphasize the differences between outcomes over the short term, and the path of the economy over the long term. We will learn what policymakers can and cannot to help the economy get out of a crisis. In addition, we look at issues such as the role of the banking system and the advantages and disadvantages of trading with other countries. This course will provide you with a solid understanding of the economy, help you understand different views of different political parties and allow you to evaluate the short and long-term effects of proposed and implemented policies.
 
 Syllabus {{% staticref "files/ec102_syllabus.pdf" %}} here {{% /staticref %}}
+
+## Problem Sets
+
+{{% staticref "files/ec102_ps1.pdf" %}} Problem Set 1{{% /staticref %}}
+
+{{% staticref "files/ec102_ps2.pdf" %}} Problem Set 2{{% /staticref %}}
+
+{{% staticref "files/ec102_ps3.pdf" %}} Problem Set 3{{% /staticref %}}
+
+{{% staticref "files/ec102_ps4.pdf" %}} Problem Set 4{{% /staticref %}}
+
+## Exams
+
+{{% staticref "files/ec102_midterm.pdf" %}} Midterm {{% /staticref %}}
+
+{{% staticref "files/ec102_final.pdf" %}} Final {{% /staticref %}}
