@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: EC 102 - Introductory Macroeconomic Analysis
-summary: {{% staticref "files/ec102_eval.pdf" %}} Teaching evaluation (4.8/5) {{% /staticref %}}
+summary: {{% staticref "files/ec102_eval.pdf" %}} Teaching evaluation {{% /staticref %}} (4.8/5)
 weight: 1
 
 # Page metadata.
