@@ -1,5 +1,5 @@
 ---
-title: Julio Ortiz
+title: Julio L. Ortiz
 role: Ph.D. Candidate, Department of Economics
 avatar_filename: avatar.jpg
 organizations:
