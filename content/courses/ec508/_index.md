@@ -20,7 +20,8 @@ menu:
     name: Overview
     weight: 1
 ---
-
+ ## Course Description
+Provides standard econometric tools necessary to perform and evaluate empirical research in economics, either in a research or business environments. Three basic concepts in econometrics are introduced: quantifying uncertainty using confidence intervals; inferring causal relationships in regressions; and prediction based on regression estimates. Topics include heteroskedasticity, limited dependent variables, errors in variables, stationary and autocorrelated time series. Exercises will be assigned using statistical software packages.
 
 Evaluation {{% staticref "files/ec508_eval.pdf" %}} here {{% /staticref %}}  
 
