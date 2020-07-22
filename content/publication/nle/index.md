@@ -32,7 +32,7 @@ links:
   url: 'https://drive.google.com/file/d/1ewI7-d4PWUC3xpZ3BouHS5zn-dIW8XKs/view?usp=sharing'
 - name: CEBRA 2019 Summary
   url: 'https://drive.google.com/file/d/1TP9ayzj0c7pmPBsMSOS6KQKvd2qbTbgJ/view?usp=sharing'
-url_pdf: https://drive.google.com/file/d/1JwEKEC0mO6jmlXdj8gqeJxlVDC36zRxv/view?usp=sharing
+url_pdf: https://drive.google.com/file/d/1sT1-Czh6dU4F9VYvswjx63b_-jbov6b2/view?usp=sharing
 url_code: ''
 url_dataset: ''
 url_poster: ''
