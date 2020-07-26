@@ -29,10 +29,10 @@ featured: true
 
 links:
 - name: Appendix
-  url: 'https://drive.google.com/file/d/1ewI7-d4PWUC3xpZ3BouHS5zn-dIW8XKs/view?usp=sharing'
+  url: files/nle_appendix.pdf
 - name: CEBRA 2019 Summary
   url: 'https://drive.google.com/file/d/1TP9ayzj0c7pmPBsMSOS6KQKvd2qbTbgJ/view?usp=sharing'
-url_pdf: https://drive.google.com/file/d/1sT1-Czh6dU4F9VYvswjx63b_-jbov6b2/view?usp=sharing
+url_pdf: files/nle.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
