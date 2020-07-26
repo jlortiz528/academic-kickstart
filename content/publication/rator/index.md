@@ -29,8 +29,8 @@ featured: true
 
 links:
 - name: Appendix
-  url: https://drive.google.com/file/d/1h8qERpIeALCLs2AqxeHCGDw8c0SRkw3F/view?usp=sharing
-url_pdf: https://drive.google.com/file/d/1seBnIaMih-u_JljghXfTsdVQjCvxZqBT/view?usp=sharing
+  url: files/rator_appendix.pdf
+url_pdf: files/rator.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
