@@ -27,6 +27,11 @@ Builds on the material in EC203, developing more complex statistical techniques 
 
 Syllabus {{% staticref "files/ec204_syllabus.pdf" %}} here {{% /staticref %}}
 
+## Empirical Project
+
+Instructions {{% staticref "files/ec204_project.pdf" %}} here {{% /staticref %}}
+
+
 ## Problem Sets
 
 {{% staticref "files/ec204_ps1.pdf" %}} Problem Set 1{{% /staticref %}}
