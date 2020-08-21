@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Nonlinear Expectations: Making Sense of Professional Forecasts"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+- Julio Ortiz
+date: "2020-07-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-05-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,29 +15,32 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: Working Paper
+publication_short: 
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper introduces a novel finding about professional forecasters--the same respondent simultaneously over- and underreacts to distinct macroeconomic variables. Whereas standard models struggle to make sense of this fact, I show that simultaneous over- and underreactions can arise in nonlinear environments. In such contexts, rational forecasters are unable to obtain an optimal and exact estimate of the state via the Kalman filter. I consider stochastic volatility as the source of nonlinearities and assume that forecasters must approximate the state by selecting an approximation function from a set of costly alternatives. According to my model, over- and underreactions depend crucially on the the underlying signal-to-noise ratio. In particular, the scope for overreactions is decreasing in the signal precision. I conclude that error predictability is not prima facie evidence against rationality.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Professional forecasters tend to over- and underreact to different macroeconomic variables. I build a model of nonlinear rational expectations that is able replicate this fact. I find that the key determinant of over- and underreactions is the underlying signal-to-noise ratio.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+- name: Appendix
+  url: files/nle_appendix.pdf
+- name: CEBRA 2019 Summary
+  url: files/cebra_summary.pdf
+url_pdf: files/nle_draft.pdf
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_slides: https://drive.google.com/file/d/1sikIP4WQq6n6zXZiBuMCpNTJgQs16qIr/view?usp=sharing
+url_source: ''
+url_video: ''
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
