@@ -26,3 +26,18 @@ menu:
 Builds on the material in EC203, developing more complex statistical techniques and applications. This course covers similar material to that in CAS EC 304 but in a more applied fashion
 
 Syllabus {{% staticref "files/ec204_syllabus.pdf" %}} here {{% /staticref %}}
+
+## Problem Sets
+
+{{% staticref "files/ec204_ps1.pdf" %}} Problem Set 1{{% /staticref %}}
+
+{{% staticref "files/ec204_ps2.pdf" %}} Problem Set 2{{% /staticref %}}
+
+{{% staticref "files/ec204_ps3.pdf" %}} Problem Set 3{{% /staticref %}}
+
+
+## Exams
+
+{{% staticref "files/ec204_midterm.pdf" %}} Midterm {{% /staticref %}}
+
+{{% staticref "files/ec204_final.pdf" %}} Final {{% /staticref %}}
