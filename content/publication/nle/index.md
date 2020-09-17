@@ -32,7 +32,7 @@ links:
   url: files/nle_appendix.pdf
 - name: CEBRA 2019 Summary
   url: files/cebra_summary.pdf
-url_pdf: files/nle_draft.pdf
+url_pdf: files/nle.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
