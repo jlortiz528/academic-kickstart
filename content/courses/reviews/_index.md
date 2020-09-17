@@ -37,5 +37,5 @@ He makes a hard class seem easy. Lectures make clear what we have to know for ex
 
 Very clear explanation of the materials. Also really helpful feedback for the final essay
 
-He is hardworking, makes an e􀃠ort in explaining the concepts clearly. Encourages to participate and ask questions. Knows his concepts really well.
-takes e􀃠orts to actually explain concepts e􀃠ectively always available for extra classes
+He is hardworking, makes an effort in explaining the concepts clearly. Encourages to participate and ask questions. Knows his concepts really well.
+takes efforts to actually explain concepts effectively always available for extra classes
