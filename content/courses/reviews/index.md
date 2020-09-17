@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: EC 102 - Introductory Macroeconomic Analysis                                     
+linktitle: Average instructor rating (4.6/5)
 summary: 
 weight: 1
 
 # Page metadata.
-title: Overview
+title: Some Comments from Former Students
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -20,27 +20,22 @@ menu:
     name: Overview
     weight: 1
 ---
+"Really good lecturer...You can tell he wants his students to understand the material as best they can..."
 
-## Course Description
+"Always available for extra help and willing to explain things in detail. Makes sure everyone understands before moving on."
 
-The second semester of a standard 2-semester sequence for those considering further work in management or economics. Coverage includes national economic performance; the problems of recession, unemployment, and inflation; money creation, government spending, and taxation; economic policies for full employment and price stability; and international trade and payments.
+"He is good at inspiring students to think and he is very patient as well."
 
-Teaching evaluation {{% staticref "files/ec102_eval.pdf" %}} here {{% /staticref %}}  
+"Julio was very good at answering questions, quickly grading our assignments so we can understand our mistakes and giving extra help if needed."
 
-Syllabus {{% staticref "files/ec102_syllabus.pdf" %}} here {{% /staticref %}}
+"I have genuinely never had another professor that cares about teaching as much as Prof. Ortiz. He was always available and never once seemed annoyed with
+the amount of questions I asked (and there were a lot)...Many professors claim to be open to questions, but I have honestly never had an instructor who demonstrated the level of communication ability that Prof. Ortiz did..."
 
-## Problem Sets
+"Very clear, very prompt in responses, super helpful, honestly one of the best experiences ive had in a class at bu. thanks! :)"
 
-{{% staticref "files/ec102_ps1.pdf" %}} Problem Set 1{{% /staticref %}}
+"He makes a hard class seem easy. Lectures make clear what we have to know for exams"
 
-{{% staticref "files/ec102_ps2.pdf" %}} Problem Set 2{{% /staticref %}}
+"Very clear explanation of the materials. Also really helpful feedback for the final essay"
 
-{{% staticref "files/ec102_ps3.pdf" %}} Problem Set 3{{% /staticref %}}
-
-{{% staticref "files/ec102_ps4.pdf" %}} Problem Set 4{{% /staticref %}}
-
-## Exams
-
-{{% staticref "files/ec102_midterm.pdf" %}} Midterm {{% /staticref %}}
-
-{{% staticref "files/ec102_final.pdf" %}} Final {{% /staticref %}}
+"He is hardworking, makes an e􀃠ort in explaining the concepts clearly. Encourages to participate and ask questions. Knows his concepts really well.
+takes e􀃠orts to actually explain concepts e􀃠ectively always available for extra classes"
