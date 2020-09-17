@@ -5,7 +5,7 @@ summary:
 weight: 1
 
 # Page metadata.
-title: Some Comments from Former Students
+title: Some reviews from former students
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -20,22 +20,22 @@ menu:
     name: Overview
     weight: 1
 ---
-"Really good lecturer...You can tell he wants his students to understand the material as best they can..."
+Really good lecturer...You can tell he wants his students to understand the material as best they can...
 
-"Always available for extra help and willing to explain things in detail. Makes sure everyone understands before moving on."
+Always available for extra help and willing to explain things in detail. Makes sure everyone understands before moving on
 
-"He is good at inspiring students to think and he is very patient as well."
+He is good at inspiring students to think and he is very patient as well.
 
-"Julio was very good at answering questions, quickly grading our assignments so we can understand our mistakes and giving extra help if needed."
+Julio was very good at answering questions, quickly grading our assignments so we can understand our mistakes and giving extra help if needed.
 
-"I have genuinely never had another professor that cares about teaching as much as Prof. Ortiz. He was always available and never once seemed annoyed with
-the amount of questions I asked (and there were a lot)...Many professors claim to be open to questions, but I have honestly never had an instructor who demonstrated the level of communication ability that Prof. Ortiz did..."
+I have genuinely never had another professor that cares about teaching as much as Prof. Ortiz. He was always available and never once seemed annoyed with
+the amount of questions I asked (and there were a lot)...Many professors claim to be open to questions, but I have honestly never had an instructor who demonstrated the level of communication ability that Prof. Ortiz did...
 
-"Very clear, very prompt in responses, super helpful, honestly one of the best experiences ive had in a class at bu. thanks! :)"
+Very clear, very prompt in responses, super helpful, honestly one of the best experiences ive had in a class at bu. thanks! :)
 
-"He makes a hard class seem easy. Lectures make clear what we have to know for exams"
+He makes a hard class seem easy. Lectures make clear what we have to know for exams
 
-"Very clear explanation of the materials. Also really helpful feedback for the final essay"
+Very clear explanation of the materials. Also really helpful feedback for the final essay
 
-"He is hardworking, makes an e􀃠ort in explaining the concepts clearly. Encourages to participate and ask questions. Knows his concepts really well.
-takes e􀃠orts to actually explain concepts e􀃠ectively always available for extra classes"
+He is hardworking, makes an e􀃠ort in explaining the concepts clearly. Encourages to participate and ask questions. Knows his concepts really well.
+takes e􀃠orts to actually explain concepts e􀃠ectively always available for extra classes
