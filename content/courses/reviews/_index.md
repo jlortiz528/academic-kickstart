@@ -20,7 +20,7 @@ menu:
     name: Overview
     weight: 1
 ---
-Really good lecturer...You can tell he wants his students to understand the material as best they can...
+"Really good lecturer...You can tell he wants his students to understand the material as best they can..."
 
 Always available for extra help and willing to explain things in detail. Makes sure everyone understands before moving on
 
