@@ -25,6 +25,8 @@ menu:
 
 Builds on the material in EC203, developing more complex statistical techniques and applications. This course covers similar material to that in CAS EC 304 but in a more applied fashion
 
+Teaching evaluation {{% staticref "files/ec204_eval.pdf" %}} here {{% /staticref %}}  
+
 Syllabus {{% staticref "files/ec204_syllabus.pdf" %}} here {{% /staticref %}}
 
 ## Empirical Project
