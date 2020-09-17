@@ -25,7 +25,7 @@ menu:
 
 The second semester of a standard 2-semester sequence for those considering further work in management or economics. Coverage includes national economic performance; the problems of recession, unemployment, and inflation; money creation, government spending, and taxation; economic policies for full employment and price stability; and international trade and payments.
 
-Teaching evaluation (4.8/5) {{% staticref "files/ec102_eval.pdf" %}} here {{% /staticref %}}  
+Teaching evaluation {{% staticref "files/ec102_eval.pdf" %}} here {{% /staticref %}}  
 
 Syllabus {{% staticref "files/ec102_syllabus.pdf" %}} here {{% /staticref %}}
 
