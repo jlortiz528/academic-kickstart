@@ -25,7 +25,7 @@ menu:
 
 The pure theory of international trade. Topics include comparative advantage; the gains from trade; tariff and nontariff barriers to trade; case studies in international economic policy.
 
-Teaching evaluation (4.8/5) {{% staticref "files/ec391_eval.pdf" %}} here {{% /staticref %}}
+Teaching evaluation {{% staticref "files/ec391_eval.pdf" %}} here {{% /staticref %}}
 
 Syllabus {{% staticref "files/ec391_syllabus.pdf" %}} here {{% /staticref %}}
 
