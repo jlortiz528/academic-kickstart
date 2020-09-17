@@ -1,5 +1,5 @@
 ---
-title: "A Short Note on Rationalizing Overreactions"
+title: "Rationalizing Overreactions"
 authors:
 - Julio Ortiz
 date: "2020-07-05T00:00:00Z"
