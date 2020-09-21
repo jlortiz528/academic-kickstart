@@ -12,6 +12,8 @@ bio: ""
 interests:
   - Macroeconomics
   - Econometrics
+  - Firm dynamics
+  - Expectations formation
 social:
   - icon: envelope
     icon_pack: fas
