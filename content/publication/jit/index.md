@@ -2,7 +2,7 @@
 title: "Spread too Thin - The Impact of Lean Inventories"
 authors:
 - Julio Ortiz
-date: "2020-07-05T00:00:00Z"
+date: "2020-09-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
