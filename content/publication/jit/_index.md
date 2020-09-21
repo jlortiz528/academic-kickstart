@@ -15,7 +15,7 @@ publishDate: "2020-05-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Working Paper
+publication: Job Market Paper
 publication_short: 
 
 abstract: Lean production generates a tradeoff between micro stability and macro vulnerability. Examining public “just-in-time” (JIT) firms, I find that JIT producers experience higher sales growth and less volatility. At the same time, JIT producers are more cyclical and sensitive to natural disasters. Motivated by these facts, I build and structurally estimate a general equilibrium model in which heterogeneous firms can adopt JIT. The estimated model implies that while JIT producers enjoy a 1 percent increase in steady state firm value, an unanticipated disaster akin to the COVID-19 shock results in a 1.1 percentage point sharper output contraction relative to a counterfactual economy with less adoption. In the estimated model, previously lean businesses hoard materials and rebuild stocks of now highly valuable inventories, disrupting their production processes.
