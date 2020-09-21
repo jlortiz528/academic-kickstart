@@ -1,7 +1,7 @@
 ---
 title: Julio L. Ortiz
 role: Ph.D. Candidate, Department of Economics
-avatar_filename: avatar.jpg
+avatar_filename: headshot.JPG
 organizations:
   - name: Boston University
     url: ""
