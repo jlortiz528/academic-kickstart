@@ -1,5 +1,5 @@
 ---
-title: "Spread too Thin - The Impact of Lean Inventories"
+title: "Spread too Thin: The Impact of Lean Inventories"
 authors:
 - Julio Ortiz
 date: "2020-09-20T00:00:00Z"
