@@ -28,8 +28,8 @@ tags:
 featured: true
 
 links:
-- name: Appendix
-  url: ''
+# - name: Appendix
+#  url: ''
 url_pdf: ''
 url_code: ''
 url_dataset: ''
