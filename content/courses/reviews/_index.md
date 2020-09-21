@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Overview
+    name: ''
     weight: 1
 ---
 - "Really good lecturer...you can tell he wants his students to understand the material as best they can..."
