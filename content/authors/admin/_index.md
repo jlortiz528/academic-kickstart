@@ -12,8 +12,6 @@ bio: ""
 interests:
   - Macroeconomics
   - Econometrics
-  - Firm dynamics
-  - Expectations formation
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,6 +37,6 @@ email: julio.ortiz91@gmail.com
 user_groups:
   - ""
 ---
-Welcome! I am a PhD candidate in the Economics Department at Boston University.
+Welcome! I am a PhD candidate in the Economics Department at Boston University and am on the 2020-2021 job market.
 
 My research interests are in macroeconomics and econometrics. Specifically, my research focuses on expectations formation and firm dynamics.
