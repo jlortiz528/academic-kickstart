@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: International Economics I
+    name: International Trade
     weight: 1
 ---
 
