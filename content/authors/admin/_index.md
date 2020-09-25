@@ -19,9 +19,9 @@ social:
   - link: https://www.linkedin.com/in/julio-ortiz-52498137/
     icon_pack: fab
     icon: linkedin
-  - icon: cv
-    icon_pack: ai
-    link: "files/cv_2020.pdf"
+  # - icon: cv
+   # icon_pack: ai
+   # link: "files/cv_2020.pdf"
 education:
   courses:
     - course: "(Expected) Ph.D. Economics "
