@@ -61,7 +61,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 
-highlight = true
 ---
 
 
