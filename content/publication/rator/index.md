@@ -21,7 +21,7 @@ publication_short:
 abstract: Survey data on expectations show that errors and revisions tend to covary negatively which implies that forecasters exhibit overreactive behavior. While this empirical finding is used to motivate models of non-rational expectations, I argue that error predictability is not sufficient to reject rationality. I prove that a rational model of strategic interaction can deliver and identical OLS coefficient from an errors-on-revisions regression as non-rational models of overconfidence and diagnostic expectations. In light of this, I propose focusing on the persistence of revisions as a more robust reduced form exercise. Using data from the Survey of Professional Forecasters, I find evidence against linear rational expectations.
 
 # Summary. An optional shortened abstract.
-summary: Forecast error predictability is used to motivate models of non-rational expectations. This note finds, however, that a rational model of strategic interaction can look a lot like a non-rational model. I propose a more robust test of linear rational expectations.
+summary: Forecast error predictability is used to motivate models of non-rational expectations. This paper finds, however, that a rational model of strategic interaction can look a lot like a non-rational model. I propose a more robust test of linear rational expectations.
 
 tags:
  # - Source Themes
