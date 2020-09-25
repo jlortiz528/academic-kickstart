@@ -10,7 +10,7 @@ publishDate: "2020-05-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 3 = Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 
@@ -24,7 +24,7 @@ abstract: Survey data on expectations show that errors and revisions tend to cov
 summary: Forecast error predictability is used to motivate models of non-rational expectations. This note finds, however, that a rational model of strategic interaction can look a lot like a non-rational model. I propose a more robust test of linear rational expectations.
 
 tags:
-- Source Themes
+# - Source Themes
 featured: true
 
 links:
