@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Econometrics (Undergrad)
+    name: Intro to Econometrics
     weight: 1
 ---
 
