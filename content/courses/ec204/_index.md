@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Empirical Economics 2
+    name: Econometrics (Undergraduate)
     weight: 1
 ---
 
