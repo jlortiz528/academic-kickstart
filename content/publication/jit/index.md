@@ -24,7 +24,7 @@ abstract: Lean production generates a tradeoff between micro stability and macro
 summary: Lean inventory practices allow firms to raise profits by placing fewer, more frequent orders in normal times. This strategy however, renders the economy more vulnerable to an unanticipated shock. This paper documents empirical evidence of this trade-off and quantifies it in a structurally estimated heterogeneous firms model. (Draft coming soon)
 
 tags:
-- Source Themes
+# - Source Themes
 featured: true
 
 links:
