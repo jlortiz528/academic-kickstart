@@ -15,13 +15,13 @@ publishDate: "2020-05-01T00:00:00Z"
 publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
-publication: Working Paper
+# publication: Working Paper
 publication_short: 
 
 abstract: Among professional forecasters, the same respondent simultaneously over- and underreacts to distinct macroeconomic variables. I show that these empirical patterns can arise in nonlinear environments, where rational forecasters are unable to obtain an optimal and exact estimate of the state via the Kalman filter. I consider stochastic volatility as the source of nonlinearities and assume that forecasters must approximate the state by selecting an approximation function from a set of costly alternatives. According to my model, over- and underreactions depend crucially on the underlying signal-to-noise ratio. In particular, the scope for overreactions is decreasing in the signal precision. I conclude that error predictability is not prima-facie evidence against rationality.
 
 # Summary. An optional shortened abstract.
-summary: Professional forecasters tend to over- and underreact to different macroeconomic variables. I build a model of nonlinear rational expectations that is able replicate this fact. I find that the key determinant of over- and underreactions is the underlying signal-to-noise ratio.
+summary: Professional forecasters tend to over- and underreact to different macroeconomic variables. A model that incorporates unobserved time varying volatility is able replicate this fact. I find that a key determinant of over- and underreactions is the underlying signal-to-noise ratio.
 
 tags:
 # - Source Themes
