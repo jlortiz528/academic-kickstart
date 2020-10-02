@@ -1,5 +1,5 @@
 ---
-title: "Rationalizing Overreactions"
+title: "A New Fact to Inform Expectations Formation"
 authors:
 - Julio Ortiz
 date: "2020-03-05T00:00:00Z"
@@ -18,10 +18,10 @@ publication_types: ["9"]
 # publication: Working Paper
 publication_short: 
 
-abstract: Survey data on expectations show that errors and revisions tend to covary negatively which implies that forecasters exhibit overreactive behavior. While this empirical finding is used to motivate models of non-rational expectations, I argue that error predictability is not sufficient to reject rationality. I prove that a rational model of strategic interaction can deliver and identical OLS coefficient from an errors-on-revisions regression as non-rational models of overconfidence and diagnostic expectations. In light of this, I propose focusing on the persistence of revisions as a more robust reduced form exercise. Using data from the Survey of Professional Forecasters, I find evidence against linear rational expectations.
+abstract: Error predictability is a salient feature of survey data and serves as a motivation for departures from full information rational expectations (FIRE) models. Within the set of non-FIRE models, however, there are several theories consistent with the error predictability. I offer an additional fact that can serve to further distinguish between models of belief formation: the persistence of overlapping revisions. Intuitively, non-FIRE models featuring Bayesian updating require that revisions about fixed events be serially uncorrelated. By way of example I show that this fact, when applied to the Survey of Professional Forecasters, favors a model of diagnostic expectations over a model of strategic interaction.
 
 # Summary. An optional shortened abstract.
-summary: Forecast error predictability is used to motivate models of non-rational expectations. This paper finds, however, that a rational model of strategic interaction can look a lot like a non-rational model. I propose a more robust test of linear rational expectations.
+summary: Forecast error predictability is used to motivate departures from full information rational expectations. I offer an additional fact that can serve to further distinguish between models of belief formation.
 
 tags:
  # - Source Themes
