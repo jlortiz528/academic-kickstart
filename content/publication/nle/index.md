@@ -37,7 +37,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: https://drive.google.com/file/d/1sikIP4WQq6n6zXZiBuMCpNTJgQs16qIr/view?usp=sharing
+url_slides: files/nle_slides.pdf
 url_source: ''
 url_video: ''
 
