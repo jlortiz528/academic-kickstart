@@ -1,5 +1,5 @@
 ---
-title: "Nonlinear Expectations: Making Sense of Professional Forecasts"
+title: "Time-Varying Volatility as a Source of Error Predictability"
 authors:
 - Julio Ortiz
 date: "2020-05-05T00:00:00Z"
@@ -18,7 +18,7 @@ publication_types: ["9"]
 # publication: Working Paper
 publication_short: 
 
-abstract: Among professional forecasters, the same respondent simultaneously over- and underreacts to distinct macroeconomic variables. I show that these empirical patterns can arise in nonlinear environments, where rational forecasters are unable to obtain an optimal and exact estimate of the state via the Kalman filter. I consider stochastic volatility as the source of nonlinearities and assume that forecasters must approximate the state by selecting an approximation function from a set of costly alternatives. According to my model, over- and underreactions depend crucially on the underlying signal-to-noise ratio. In particular, the scope for overreactions is decreasing in the signal precision. I conclude that error predictability is not prima-facie evidence against rationality.
+abstract: Among professional forecasters, the covariance between forecast errors and revisions can be negative or positive depending on the macroeconomic variable in question. I show that these apparent over- and underreactions can arise simultaneously in a noisy information environment with unobserved volatility and heterogeneity in forecasting models. Under such dynamics, the use of different models among forecasters can be rationalized by costly adoption of more sophisticated methods. The scope for overreactions is found to be decreasing in the signal-to-noise ratio. I provide empirical evidence and calibration results consistent with this mechanism and conclude that modeling relevant nonlinearities can serve as a way of making sense of the observed heterogeneity in reported forecasts.
 
 # Summary. An optional shortened abstract.
 summary: Professional forecasters tend to over- and underreact to different macroeconomic variables. A model that incorporates unobserved time varying volatility is able replicate this fact. I find that a key determinant of over- and underreactions is the underlying signal-to-noise ratio.
