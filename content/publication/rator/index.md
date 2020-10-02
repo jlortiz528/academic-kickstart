@@ -18,8 +18,7 @@ publication_types: ["9"]
 # publication: Working Paper
 publication_short: 
 
-abstract: 
-# Error predictability is a salient feature of survey data and serves as a motivation for departures from full information rational expectations, FIRE, models. Within the set of non FIRE models, however, there are several theories consistent with the error predictability. I offer an additional fact that can serve to further distinguish between models of belief formation: the persistence of overlapping revisions. Intuitively, non FIRE models featuring Bayesian updat- ing require that revisions about fixed events be serially uncorrelated. By way of example I show that this fact, when applied to the Survey of Professional Forecasters, favors a model of diag- nostic expectations over a model of strategic interaction.
+abstract: Error predictability is a salient feature of survey data and serves as a motivation for departures from full information rational expectations (FIRE) models. Within the set of non-FIRE models, however, there are several theories consistent with error predictability. I offer an additional fact that can serve to further distinguish between models of beleif formation--the persistence of overlapping revisions. Intuitively, non FIRE models featuring Bayesian updating require that revisions about fixed events be serially uncorrelated. By way of example I show that this fact, when applied to the Survey of Professional Forecasters, favors a model of diag- nostic expectations over a model of strategic interaction.
 
 # Summary. An optional shortened abstract.
 summary: Forecast error predictability is used to motivate departures from full information rational expectations. I offer an additional fact that can serve to further distinguish between models of belief formation.
