@@ -1,5 +1,5 @@
 ---
-title: "A New Fact to Inform Expectations Formation"
+title: "A New Fact to Discipline Models of Beliefs"
 authors:
 - Julio Ortiz
 date: "2020-03-05T00:00:00Z"
