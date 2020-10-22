@@ -18,10 +18,10 @@ publication_types: ["9"]
 publication: Job Market Paper
 publication_short: 
 
-abstract: Lean production generates a tradeoff between micro stability and macro vulnerability. Examining public ``just-in-time" (JIT) firms, I find that JIT producers experience higher sales growth and less volatility. At the same time, JIT producers are more cyclical and sensitive to natural disasters. Motivated by these facts, I build and structurally estimate a general equilibrium model in which heterogeneous firms can adopt JIT. The estimated model implies that while JIT producers enjoy a 1% increase in steady state firm value, an unanticipated disaster akin to the COVID-19 shock results in a 1.6 percentage point sharper output contraction relative to a counterfactual economy with less adoption. With more JIT, previously lean businesses stock out more frequently and hoard now highly valuable materials, disrupting their production processes. 
+abstract: Widespread adoption of minimal inventory strategies has remade supply chains and contributed to a reduction in economywide inventory holdings. This paper uncovers and quantifies a tradeoff between firm level gains associated with such strategies and the vulnerability that it engenders at the macro level. Examining just-in-time (JIT) firms, I find that JIT adopters experience higher sales and less volatility while at the same time exhibiting greater cyclicality and heightened sensitivity to natural disasters. I reconcile these facts in a structurally estimated general equilibrium model in which heterogeneous firms can adopt JIT. Relative to a counterfactual economy with less adoption, the estimated model implies that producers enjoy a 1\% increase in long run firm value. At the same time, an unanticipated disaster akin to the COVID-19 shock results in a 1.6 percentage point sharper output contraction. With more adoption, a greater number of firms "stock out" while others hoard highly valued materials, collectively disrupting production processes.
 
 # Summary. An optional shortened abstract.
-summary: Lean inventory management can be a profitable strategy, but it renders the economy more vulnerable to unanticipated shocks. This paper quantifies the tradeoff in a structurally estimated heterogeneous firms model. (Draft coming soon)
+summary: Lean inventory management can be a profitable strategy, but it renders the economy more vulnerable to unanticipated shocks. This paper quantifies the tradeoff in a structurally estimated heterogeneous firms model.
 
 tags:
 # - Source Themes
