@@ -29,10 +29,10 @@ featured: true
 
 links:
 - name: Appendix
-  url: files/tvv_appendix.pdf
+  url: files/orur_appendix.pdf
 - name: CEBRA 2019 Summary
   url: files/cebra_summary.pdf
-url_pdf: files/tvv.pdf
+url_pdf: files/orur.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
