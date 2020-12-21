@@ -29,7 +29,7 @@ featured: true
 
 links:
 - name: Appendix
-  url: files/rator_appendix.pdf
+  url: ''
 url_pdf: files/rator.pdf
 url_code: ''
 url_dataset: ''
