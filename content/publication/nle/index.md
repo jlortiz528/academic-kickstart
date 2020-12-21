@@ -2,7 +2,7 @@
 title: "Time-Varying Volatility, Underreaction, and Overreaction"
 authors:
 - Julio Ortiz
-date: "2020-12-05T00:00:00Z"
+date: "2020-05-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
