@@ -2,7 +2,7 @@
 title: "A New Fact to Discipline Models of Beliefs"
 authors:
 - Julio Ortiz
-date: "Updated 2020-03-05T00:00:00Z"
+date: "2020-12-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,8 +28,6 @@ tags:
 featured: true
 
 links:
-- name: Appendix
-  url: ''
 url_pdf: files/rator.pdf
 url_code: ''
 url_dataset: ''
