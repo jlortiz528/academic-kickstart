@@ -16,7 +16,7 @@ publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
 # publication: Working Paper
-publication_short: 
+publication_short: Updated December 2020
 
 abstract: Two seemingly contradictory patterns coexist in data on professional forecasters. After positive news and upward forecast revisions, predictions made by the same person are sometimes systematically too optimistic, "overreacting," while they are also sometimes predictably too pessimistic, "underreacting." Making sense of both patterns within the same model proves difficult for a wide range of theories of belief dynamics. But I show that such patterns are to be expected in an environment with time-varying volatility about which agents are imperfectly informed. In states of the world where volatility exceeds agents' perceptions, forecasters appear to underreact, while states in which volatility is lower than agents perceive cause apparent overreaction. I provide empirical evidence consistent with this mechanism, emphasizing the importance of accounting for the impact of volatility shifts for belief dynamics.
 
