@@ -16,7 +16,7 @@ publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
 publication: Job Market Paper
-publication_short: Updated
+publication_short:
 
 abstract: Widespread adoption of just-in-time (JIT) production, a strategy that minimizes time between orders, has reduced inventory holdings. This paper finds that JIT creates a tradeoff between firm profitability and vulnerability to large unexpected shocks. Empirically, JIT adopters experience higher sales and less volatility while also exhibiting greater cyclicality and heightened sensitivity to natural disasters. I explain these facts in a structurally estimated general equilibrium model where heterogeneous firms can adopt JIT. Relative to a counterfactual economy reflecting adoption patterns from the 1980s, when JIT was in its infancy, the estimated model implies a 1% increase in long-run firm value. At the same time, an unanticipated COVID-19 shock results in a 1.6 percentage point sharper output contraction. This occurs because more firms "stock out" while others hoard highly valued materials.
 
