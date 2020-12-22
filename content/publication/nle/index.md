@@ -28,8 +28,8 @@ tags:
 featured: true
 
 links:
-- name: Appendix
-  url: files/orur_appendix.pdf
+# - name: Appendix
+#  url: files/orur_appendix.pdf
 - name: CEBRA 2019 Summary
   url: files/cebra_summary.pdf
 url_pdf: files/orur.pdf
