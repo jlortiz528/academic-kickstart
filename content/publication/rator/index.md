@@ -16,7 +16,7 @@ publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
 # publication: Working Paper
-publication_short: 
+publication_short: Updated December 2020
 
 abstract: Changes made to existing forecasts that are systematically correlated with subsequent forecast errors yield "error predictability," a salient feature of survey data. Full information rational expectations (FIRE) models, by contrast, produce unpredictable errors, a fact motivating many non-FIRE theories. Within this non-FIRE group, I demonstrate that empirical error predictability is not typically enough to distinguish across alternative belief systems. Instead, I highlight an additional empirical fact that, paired with error predictability, can serve to further  disentangle competing models of beliefs. In particular, I emphasize that any model featuring Bayesian updating requires that forecast revisions be serially uncorrelated. Applying this logic to two widely studied theories and taking it to data from the Survey of Professional Forecasters favors a model of diagnostic expectations over a model of beliefs driven by strategic interaction.
 
