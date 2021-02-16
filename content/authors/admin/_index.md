@@ -37,6 +37,6 @@ email: jlortiz@bu.edu
 user_groups:
   - ""
 ---
-Welcome! I am a PhD candidate in the Economics Department at Boston University and am on the 2020-2021 job market.
+Welcome! I am a PhD candidate in the Economics Department at Boston University.
 
 My research interests are in macroeconomics and econometrics. Specifically, my research focuses on expectations formation and firm dynamics.
