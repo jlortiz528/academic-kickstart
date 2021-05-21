@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: "Average instructor rating 4.6/5"
+linktitle: "Average instructor rating: 4.6/5"
 summary: 
 weight: 1
 
 # Page metadata.
-title: Some reviews from former students
+title: Some former student reviews
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
