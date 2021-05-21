@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Average instructor rating: 4.6/5
+linktitle: Average instructor rating':' 4.6/5
 summary: 
 weight: 1
 
