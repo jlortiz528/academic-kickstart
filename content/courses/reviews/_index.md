@@ -29,8 +29,6 @@ the amount of questions I asked (and there were a lot)...Many professors claim t
 
 - "Explained concepts thoroughly and made sure students understood the material in depth. The microeconomic topics of the class were interesting and Julio’s teaching style was very effective. One of the best professors I’ve had at BU. Thanks for a great semester!!"
 
-#- "Very clear, very prompt in responses, super helpful, honestly one of the best experiences ive had in a class at bu. thanks! :)"
-
 - "Julio was extremely patient with us in terms of explaining concepts and problem set questions. I liked the fact that he wasn't going to give out answers straight up, but sort of led up to it. He's also considerate to those in different time zones"
 
 - "Professor Ortiz was very organized and fair with his grading and lectures. I found lectures easy to follow because slides were clear and practice problems were consistently included throughout the lectures, which made problem sets easier to understand as well. Whenever there were any questions about lecture or problem set material (whether during lecture or outside of class), Professor Ortiz responded promptly and was able to explain the problems in clear detail. Blackboard site was always updated with lecture recordings, notes, and practice problems. Tests were fair and straightforward, and anyone who had been paying attention in the class would have done well on exams. This course significantly strengthened my understanding of economics and I would recommend anyone to take this course with Professor Ortiz"
