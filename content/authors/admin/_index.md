@@ -29,7 +29,7 @@ education:
       year: 2021
     - course: M.A. Political Economy
       institution: Boston University
-      year: 2018
+      year: 2019
     - course: B.S. Economics and International Affairs
       institution: George Washington University
       year: 2013
