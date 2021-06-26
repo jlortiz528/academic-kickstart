@@ -88,19 +88,19 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "jlortiz@bu.edu"
-phone = "(201) 230-1960"
+email = "julio.l.ortiz@frb.gov"
+phone = "202-313-2013"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "270 Bay State Road", city = "Boston", region = "MA", postcode = "02215", country = "United States", country_code = "US"}
+address = {street = "20th & C Street NW", city = "Washington", region = "DC", postcode = "20551", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "42.350966", longitude = "-71.105500"}
+coordinates = {latitude = "38.89314805837", longitude = "-77.0458484566544"}
 
 # Directions for visitors to locate you.
-directions = "Office 514"
+#directions = "Office 514"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
