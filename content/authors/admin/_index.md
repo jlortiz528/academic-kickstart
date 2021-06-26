@@ -1,10 +1,10 @@
 ---
 title: Julio L. Ortiz
-role: Ph.D. Candidate, Department of Economics
+role: Economist, International Finance Division
 avatar_filename: avatar.jpg
 organizations:
-  - name: Boston University
-    url: ""
+  - name: Federal Reserve Board
+    url: "https://www.federalreserve.gov/"
 superuser: true
 authors:
   - admin
@@ -24,7 +24,7 @@ social:
    # link: "files/cv_2020.pdf"
 education:
   courses:
-    - course: "(Expected) Ph.D. Economics "
+    - course: "Ph.D. Economics "
       institution: Boston University
       year: 2021
     - course: M.A. Political Economy
@@ -37,6 +37,6 @@ email: jlortiz@bu.edu
 user_groups:
   - ""
 ---
-Welcome! I am a PhD candidate in the Economics Department at Boston University.
+Welcome! I am an economist in the International Finance Division of the Federal Reserve Board.
 
-My research interests are in macroeconomics and econometrics. Specifically, my research focuses on expectations formation and firm dynamics.
+My research interests are in macroeconomics. Specifically, my research focuses on expectations formation and firm dynamics.
