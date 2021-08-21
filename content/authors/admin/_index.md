@@ -40,4 +40,4 @@ user_groups:
 ---
 Welcome! I am an economist in the International Finance Division of the Federal Reserve Board.
 
-My research interests are in macroeconomics with a focus on firm dynamics and expectations formation.
+My research interests are in macroeconomics with a focus on firm dynamics and expectation formation.
