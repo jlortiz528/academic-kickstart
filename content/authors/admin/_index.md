@@ -11,7 +11,8 @@ authors:
 bio: ""
 interests:
   - Macroeconomics
-  - Econometrics
+  - Firm dynamics
+  - Expectation formation
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,7 +22,7 @@ social:
     icon: linkedin
   # - icon: cv
    # icon_pack: ai
-   # link: "files/cv_2020.pdf"
+   # link: "files/cv_2021.pdf"
 education:
   courses:
     - course: "Ph.D. Economics "
