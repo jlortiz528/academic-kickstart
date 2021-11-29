@@ -16,7 +16,7 @@ publishDate: "2020-05-01T00:00:00Z"
 publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: Working Paper
 publication_short:
 
 abstract: We document that updates to macroeconomic expectations among professional forecasters are: (i) negatively serially correlated at the individual level, (ii) positively serially correlated at the aggregate level, and (iii)  exhibit an offsetting pattern. To explain these facts, we build and estimate a model featuring annual smoothing and a requirement that quarterly predictions be jointly consistent with the annual forecast. Relative to existing theories, our model provides a unified explanation for the three facts as well as other forms of over and underadjustment. Furthermore, our model suggests that annual forecasts exhibit more information rigidity than quarterly forecasts, with a larger role for sticky information relative to noisy information.
