@@ -3,7 +3,7 @@ title: "Overreaction Through Expectation Smoothing"
 authors:
 - Julio Ortiz
 - Constantin Burgi
-date: "2020-09-20T00:00:00Z"
+date: "2021-11-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
 publication: Working Paper
-publication_short:
+publication_short: Draft coming soon
 
 abstract: We document that updates to macroeconomic expectations among professional forecasters are (i) negatively serially correlated at the individual level, (ii) positively serially correlated at the aggregate level, and (iii)  exhibit an offsetting pattern. To explain these facts, we build and estimate a model featuring annual smoothing and a requirement that quarterly predictions be jointly consistent with the annual forecast. Relative to existing theories, our model provides a unified explanation for the three facts as well as other forms of over and underadjustment. Furthermore, our model suggests that annual forecasts exhibit more information rigidity than quarterly forecasts, with a larger role for sticky information relative to noisy information.
 
@@ -26,7 +26,7 @@ summary: Professional forecast revisions exhibit an offsetting pattern that is i
 
 tags:
 # - Source Themes
-featured: true
+featured: false
 
 links:
 # - name: Appendix
