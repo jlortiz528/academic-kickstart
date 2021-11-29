@@ -26,7 +26,7 @@ summary: Professional forecast revisions exhibit an offsetting pattern that is i
 
 tags:
 # - Source Themes
-featured: false
+featured: true
 
 links:
 # - name: Appendix
