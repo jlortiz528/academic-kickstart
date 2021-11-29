@@ -2,7 +2,7 @@
 title: "Overreaction Through Expectation Smoothing"
 authors:
 - Julio Ortiz
-- Constantin B\\"{u}rgi
+- Constantin B\"{u}rgi
 date: "2021-11-20T00:00:00Z"
 doi: ""
 
