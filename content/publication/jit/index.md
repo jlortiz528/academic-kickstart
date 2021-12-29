@@ -29,6 +29,8 @@ featured: true
 
 links:
 # - name: Appendix
+#  url: ''
+- name: VOX EU
   url: 'https://voxeu.org/article/impact-lean-inventories'
 url_pdf: files/jit.pdf
 url_code: ''
