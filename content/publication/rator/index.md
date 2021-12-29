@@ -1,7 +1,7 @@
 ---
 title: "A New Fact to Discipline Models of Beliefs"
 authors:
-- Julio Ortiz
+- Julio L. Ortiz
 date: "2020-03-05T00:00:00Z"
 doi: ""
 
