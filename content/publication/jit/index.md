@@ -29,7 +29,7 @@ featured: true
 
 links:
 # - name: Appendix
-#  url: ''
+  url: 'https://voxeu.org/article/impact-lean-inventories'
 url_pdf: files/jit.pdf
 url_code: ''
 url_dataset: ''
