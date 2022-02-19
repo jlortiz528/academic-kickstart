@@ -22,7 +22,7 @@ social:
     icon: linkedin
   # - icon: cv
    # icon_pack: ai
-   # link: "files/cv_2021.pdf"
+   # link: "files/cv_2022.pdf"
 education:
   courses:
     - course: "Ph.D. Economics "
