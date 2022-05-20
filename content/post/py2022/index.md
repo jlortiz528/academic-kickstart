@@ -31,12 +31,12 @@ featured: true
 links:
 # - name: Appendix
 #  url: ''
-url_pdf: ''
+url_pdf: files/PY2022discussion.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: files/PY2022discussion.pdf
+url_slides: ''
 url_source: ''
 url_video: ''
 
