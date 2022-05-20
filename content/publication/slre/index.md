@@ -19,10 +19,10 @@ publication_types: ["9"]
 publication: Working Paper
 publication_short: 
 
-abstract: We document that updates to macroeconomic expectations among professional forecasters are (i) negatively serially correlated at the individual level, (ii) positively serially correlated at the aggregate level, and (iii)  exhibit an offsetting pattern. To explain these facts, we build and estimate a model featuring annual smoothing and a requirement that quarterly predictions be jointly consistent with the annual forecast. Relative to existing theories, our model provides a unified explanation for the three facts as well as other forms of over and underadjustment. Furthermore, our model suggests that annual forecasts exhibit more information rigidity than quarterly forecasts, with a larger role for sticky information relative to noisy information.
+abstract: Updates to macroeconomic expectations among professional forecasters are: (i) negatively serially correlated at the individual level, (ii) positively serially correlated at the aggregate level, and (iii) exhibit an offsetting pattern. To explain these facts, we estimate a hybrid sticky-noisy information model featuring quarterly and annual inattention, and a quarterly-to-annual aggregation constraint. Relative to existing theories, our model provides a unified explanation for the three facts as well as previously documented evidence of over- and underreaction. Furthermore, our estimates suggest that annual forecasts exhibit more information rigidity than quarterly forecasts, with a larger role for sticky information relative to noisy information.
 
 # Summary. An optional shortened abstract.
-summary: Updates to survey expectations exhibit an offsetting pattern that is incompatible with standard theories of belief formation. We rationalize this in a model featuring long-run inattention and a short-run-to-long-run adding up constraint. Our model offers a new explanation for observed overreactions in expectations. Draft will be uploaded soon.
+summary: Updates to survey expectations exhibit an offsetting pattern that is incompatible with standard theories of belief formation. We rationalize this in a model featuring long-run inattention and a short-run-to-long-run adding up constraint. Our model offers a new explanation for observed overreactions in expectations. 
 
 tags:
 # - Source Themes
