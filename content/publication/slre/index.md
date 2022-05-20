@@ -3,7 +3,7 @@ title: "Overreaction Through Expectation Smoothing"
 authors:
 - Julio L. Ortiz
 - Constantin Bürgi
-date: "2021-11-20T00:00:00Z"
+date: "2022-05-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,10 +19,10 @@ publication_types: ["9"]
 publication: Working Paper
 publication_short: 
 
-abstract: Updates to macroeconomic expectations among professional forecasters are: negatively serially correlated at the individual level, positively serially correlated at the aggregate level, and exhibit an offsetting pattern. To explain these facts, we estimate a hybrid sticky-noisy information model featuring quarterly and annual inattention, and a quarterly-to-annual aggregation constraint. Relative to existing theories, our model provides a unified explanation for the three facts as well as previously documented evidence of over- and underreaction. Furthermore, our estimates suggest that annual forecasts exhibit more information rigidity than quarterly forecasts, with a larger role for sticky information relative to noisy information.
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Updates to survey expectations exhibit an offsetting pattern that is incompatible with standard theories of belief formation. We rationalize this in a model featuring long-run inattention and a short-run-to-long-run adding up constraint. Our model offers a new explanation for observed overreactions in expectations. 
+summary: Updates to survey expectations exhibit an offsetting pattern that are incompatible with standard theories of belief formation. We rationalize this in a model featuring annual inattention and a quarterly-to-annual adding up constraint. Our model offers a new explanation for observed overreactions in expectations. 
 
 tags:
 # - Source Themes
