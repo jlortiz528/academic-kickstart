@@ -11,7 +11,7 @@ project: []
 # Link to slides
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "fab", icon="twitter", name="Slides", url = "files/PY2022discussion.pdf"}]
+url_custom: [{icon_pack = "fab", icon="twitter", name="Slides", url = "files/PY2022discussion.pdf"}]
 
 # Date published
 date: '2020-12-13T00:00:00Z'
