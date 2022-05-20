@@ -31,7 +31,7 @@ featured: true
 links:
 # - name: Appendix
 #  url: ''
-url_pdf: ''
+url_pdf: 'files/oes_draft.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
