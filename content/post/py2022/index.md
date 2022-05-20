@@ -1,13 +1,13 @@
 ---
 title: "Aggregate Risk in the Term Stucture of Corporate Credit"
 authors:
-- Johannes Posechl
-- Ram Yamarthy
+- DC-Area Juniors Finance Conference
+
 date: "2022-05-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-05-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +22,7 @@ publication_short:
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: DC-Area Juniors Finance Conference
+summary: by Johannes Posechl and Ram Yamarthy
 
 tags:
 # - Source Themes
@@ -36,7 +36,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: files/PY2022discussion.pdf
 url_source: ''
 url_video: ''
 
@@ -60,5 +60,5 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: "files/PY2022discussion.pdf"
+slides: ""
 ---
