@@ -13,7 +13,7 @@
  [[main]]
     name = "CV"
     url = "files/cv_2022.pdf"
-    weight = 60
+    weight = 20
     
 #[[main]]
 #  name = "Research"
@@ -23,12 +23,12 @@
 [[main]]
   name = "Research"
   url = "#featured"
-  weight = 20
+  weight = 30
  
  [[main]]
   name = "Discussions"
   url = "#posts"
-  weight = 20
+  weight = 40
   
   #[[main]]
   #name = "Experience"
@@ -43,4 +43,4 @@
  [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 40
+  weight = 60
