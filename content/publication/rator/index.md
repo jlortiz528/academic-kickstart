@@ -25,7 +25,7 @@ summary: Forecast error predictability is used to motivate departures from full 
 
 tags:
  # - Source Themes
-featured: true
+featured: false
 
 links:
 url_pdf: files/rator.pdf
