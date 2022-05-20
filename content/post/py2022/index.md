@@ -6,7 +6,7 @@ subtitle: ''
 summary: by Johannes Poeschl and Ram Yamarthy
 
 # Link this post with a project
-projects: files/PY2022_discussion.pdf
+url: files/PY2022discussion.pdf
 
 # Date published
 date: '2020-12-13T00:00:00Z'
