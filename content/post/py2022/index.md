@@ -3,7 +3,7 @@ title: Aggregate Risk in the Term Structure of Corporate Credit
 subtitle: ''
 
 # Summary for listings and search engines
-summary: DC-Area Juniors Finance Conference 2022
+summary: by Johannes Poeschl and Ram Yamarthy
 
 # Link this post with a project
 projects: []
@@ -29,8 +29,7 @@ image:
   preview_only: 
 
 authors:
-  - Johannes Poeschl
-  - Ram Yamarthy
+  - DC-Area Juniors Finance Conference 2022
 
 tags:
   - 
