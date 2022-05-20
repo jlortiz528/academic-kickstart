@@ -12,7 +12,7 @@ projects: []
 date: '2020-12-13T00:00:00Z'
 
 # Date updated
-#lastmod: '2020-12-13T00:00:00Z'
+lastmod: ''
 
 # Is this an unpublished draft?
 draft: false
@@ -25,8 +25,8 @@ featured: false
 image:
   caption: ''
   focal_point: ''
-  placement: 2
-  preview_only: false
+  placement: 
+  preview_only: 
 
 authors:
   - Johannes Poeschl
