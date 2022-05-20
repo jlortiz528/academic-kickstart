@@ -1,6 +1,6 @@
 ---
 title: Aggregate Risk in the Term Structure of Corporate Credit
-subtitle: by Johannes Poeschl and Ram Yamarthy. DC-Area Juniors Finance Conference
+subtitle: by Johannes Poeschl and Ram Yamarthy
 
 # Summary for listings and search engines
 summary: 
