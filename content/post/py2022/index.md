@@ -1,12 +1,12 @@
 ---
-title: [Aggregate Risk in the Term Structure of Corporate Credit](files/PY2022_discussion.pdf)
+title: Aggregate Risk in the Term Structure of Corporate Credit
 subtitle: ''
 
 # Summary for listings and search engines
 summary: by Johannes Poeschl and Ram Yamarthy
 
 # Link this post with a project
-projects: []
+projects: files/PY2022_discussion.pdf
 
 # Date published
 date: '2020-12-13T00:00:00Z'
