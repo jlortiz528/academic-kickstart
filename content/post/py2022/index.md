@@ -6,6 +6,10 @@ subtitle: ''
 summary: by Johannes Poeschl and Ram Yamarthy
 
 # Link this post with a project
+project: []
+
+# Link to slides
+links:
 url: files/PY2022discussion.pdf
 
 # Date published
