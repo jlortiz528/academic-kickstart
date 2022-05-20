@@ -22,7 +22,7 @@ publication_short:
 abstract: Updates to macroeconomic expectations among professional forecasters are (i) negatively serially correlated at the individual level, (ii) positively serially correlated at the aggregate level, and (iii) exhibit an offsetting pattern. To explain these facts, we estimate a hybrid sticky-noisy information model featuring quarterly and annual inattention, and a quarterly-to-annual aggregation constraint. Relative to existing theories, our model provides a unified explanation for the three facts as well as previously documented evidence of over- and underreaction. Furthermore, our estimates suggest that annual forecasts exhibit more information rigidity than quarterly forecasts, with a larger role for sticky information relative to noisy information.
 
 # Summary. An optional shortened abstract.
-summary: Updates to survey expectations exhibit an offsetting pattern that are incompatible with standard theories of belief formation. We rationalize this in a model featuring annual inattention and a quarterly-to-annual adding up constraint. Our model offers a new explanation for observed overreactions in expectations. 
+summary: Updates to survey expectations exhibit an offsetting pattern that are incompatible with standard theories of belief formation. We rationalize this in a model featuring annual inattention and a quarterly-to-annual consistency constraint. Our model offers a new explanation for observed overreactions in expectations. 
 
 tags:
 # - Source Themes
