@@ -22,7 +22,7 @@ publication_short:
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: by Johannes Posechl and Ram Yamarthy
+summary: by Johannes Poeschl and Ram Yamarthy
 
 tags:
 # - Source Themes
