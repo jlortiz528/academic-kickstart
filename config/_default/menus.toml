@@ -7,36 +7,6 @@
   name = "Home"
   url = "#about"
   weight = 10
-
-#[[main]]
-#  name = "Updates"
-#  url = "#posts"
-#  weight = 20
-  
-[[main]]
-  name = "Research"
-  url = "#publications"
-  weight = 20
-
-[[main]]
-  name = "Research"
-  url = "#featured"
-  weight = 20
- 
-  #[[main]]
-  #name = "Experience"
-  #url = "#experience"
-  #weight = 30
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 40
-  
-[[main]]
-  name = "Teaching"
-  url = "courses/"
-  weight = 50
   
  #Link to a PDF of your resume/CV from the menu.
  #To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -44,3 +14,33 @@
     name = "CV"
     url = "files/cv_2022.pdf"
     weight = 60
+    
+#[[main]]
+#  name = "Research"
+#  url = "#publications"
+#  weight = 20
+
+[[main]]
+  name = "Research"
+  url = "#featured"
+  weight = 20
+ 
+ [[main]]
+  name = "Discussions"
+  url = "#posts"
+  weight = 20
+  
+  #[[main]]
+  #name = "Experience"
+  #url = "#experience"
+  #weight = 30
+  
+[[main]]
+  name = "Teaching"
+  url = "courses/"
+  weight = 50
+    
+ [[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 40
