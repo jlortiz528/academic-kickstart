@@ -18,7 +18,7 @@ publication_types: ["9"]
 # publication: Working Paper
 publication_short: ''
 
-abstract: Using data from professional forecasters, I find that a theory of misspecified expectations, in which forecasters’ perceived law of motion differs from the objective law of motion, outper- forms alternative models in its ability to fit prediction errors and revisions. Misspecification is successful in part because it matches updating behavior in the data. My framework delivers a novel testable implication through which I provide robust evidence of misspecification-related overextrapolation across a range of macroeconomic variables. I conclude that misspecified expectations can serve as a suitable benchmark alternative to full information rational expecta- tions.
+abstract: Using data from professional forecasters, I find that a theory of misspecified expectations, in which forecasters’ perceived law of motion differs from the objective law of motion, outperforms alternative models in its ability to fit prediction errors and revisions. Misspecification is successful in part because it matches updating behavior in the data. My framework delivers a novel testable implication through which I provide robust evidence of misspecification-related overextrapolation across a range of macroeconomic variables. I conclude that misspecified expectations can serve as a suitable benchmark alternative to full information rational expectations.
 
 
 # Summary. An optional shortened abstract.
