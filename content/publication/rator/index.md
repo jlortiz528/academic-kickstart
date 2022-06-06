@@ -2,11 +2,11 @@
 title: "A New Fact to Discipline Models of Beliefs"
 authors:
 - Julio L. Ortiz
-date: "2020-03-05T00:00:00Z"
+date: "2022-06-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-05-01T00:00:00Z"
+publishDate: "2022-06-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,19 +16,20 @@ publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
 # publication: Working Paper
-publication_short: Updated December 2020
+publication_short: ''
 
-abstract: Changes made to existing forecasts that are systematically correlated with subsequent forecast errors yield "error predictability," a salient feature of survey data. Full information rational expectations (FIRE) models, by contrast, produce unpredictable errors, a fact motivating many non-FIRE theories. Within this non-FIRE group, I demonstrate that empirical error predictability is not typically enough to distinguish across alternative belief systems. Instead, I highlight an additional empirical fact that, paired with error predictability, can serve to further  disentangle competing models of beliefs. In particular, I emphasize that any model featuring Bayesian updating requires that forecast revisions be serially uncorrelated. Applying this logic to two widely studied theories and taking it to data from the Survey of Professional Forecasters favors a model of diagnostic expectations over a model of beliefs driven by strategic interaction.
+abstract: Using data from professional forecasters, I find that a theory of misspecified expectations, in which forecasters’ perceived law of motion differs from the objective law of motion, outper- forms alternative models in its ability to fit prediction errors and revisions. Misspecification is successful in part because it matches updating behavior in the data. My framework delivers a novel testable implication through which I provide robust evidence of misspecification-related overextrapolation across a range of macroeconomic variables. I conclude that misspecified expectations can serve as a suitable benchmark alternative to full information rational expecta- tions.
+
 
 # Summary. An optional shortened abstract.
-summary: Forecast error predictability is used to motivate departures from full information rational expectations. I offer an additional fact that can serve to further distinguish between models of belief formation.
+summary: A theory in which forecasters adopt parsimonious models of richer underlying processes can serve as a suitable benchmark departure from full information rational expectations.
 
 tags:
  # - Source Themes
 featured: false
 
 links:
-url_pdf: files/rator.pdf
+url_pdf: files/me.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
