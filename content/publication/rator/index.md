@@ -1,5 +1,5 @@
 ---
-title: "A New Fact to Discipline Models of Beliefs"
+title: "Misspecified Expectations"
 authors:
 - Julio L. Ortiz
 date: "2022-06-05T00:00:00Z"
