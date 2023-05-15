@@ -1,5 +1,5 @@
 ---
-title: "Overreaction Through Expectation Smoothing"
+title: "Overreaction Through Anchoring"
 authors:
 - Julio L. Ortiz
 - Constantin Bürgi
