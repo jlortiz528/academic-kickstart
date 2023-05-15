@@ -3,7 +3,7 @@ title: "Overreaction Through Anchoring"
 authors:
 - Julio L. Ortiz
 - Constantin Bürgi
-date: "2022-05-20T00:00:00Z"
+date: "2023-04-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
