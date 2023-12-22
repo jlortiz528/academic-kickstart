@@ -2,7 +2,7 @@
 title: "Spread Too Thin: The Impact of Lean Inventories"
 authors:
 - Julio L. Ortiz
-date: "2023-05-20T00:00:00Z"
+date: "2023-12-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,10 +18,10 @@ publication_types: ["9"]
 publication: Job Market Paper
 publication_short:
 
-abstract: Widespread adoption of just-in-time (JIT) production has reduced inventory holdings. This paper quantifies a tradeoff created by JIT between firm profitability and vulnerability to supply disruptions. Empirically, JIT adopters experience higher sales and less volatility on average while also exhibiting heightened sensitivity to aggregate supply conditions and weather events faced by their suppliers. I explain these facts in a structurally estimated general equilibrium model of JIT production. Relative to a counterfactual economy reflecting the 1970s and 1980s, the baseline model implies an 8.8\% increase in firm profits in normal times and a 25\% deeper contraction amid a supply disruption.
+abstract: Widespread adoption of just-in-time (JIT) production has reduced inventory holdings. This paper quantifies a trade-off created by JIT between firm profitability and vulnerability to supply disruptions. Empirically, JIT adopters experience higher sales and less volatility on average while also exhibiting heightened sensitivity to aggregate supply conditions and weather events faced by their suppliers. I explain these facts in a structurally estimated general equilibrium model of JIT production. Relative to a counterfactual economy reflecting the 1970s and 1980s, the baseline model implies an 8.8% increase in firm profits in normal times but a substantially deeper contraction amid a supply disruption.
 
 # Summary. An optional shortened abstract.
-summary: Lean inventory management can be a profitable strategy, but it renders the economy more vulnerable to unanticipated shocks. This paper quantifies the tradeoff in a structurally estimated heterogeneous firms model.
+summary: Lean inventory management can be a profitable strategy, but it renders the economy more vulnerable to supply disruptions. This paper quantifies the trade-off in a structurally estimated heterogeneous firms model.
 
 tags:
 # - Source Themes
