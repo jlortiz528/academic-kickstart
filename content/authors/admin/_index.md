@@ -12,6 +12,7 @@ bio: ""
 interests:
   - Macroeconomics
   - Firm dynamics
+  - Inventory investment
   - Expectation formation
 social:
   - icon: envelope
@@ -40,4 +41,4 @@ user_groups:
 ---
 Welcome! I am an economist in the International Finance Division of the Federal Reserve Board.
 
-My research interests are in macroeconomics with a focus on firm dynamics and expectation formation.
+My research interests are in macroeconomics with a focus on firm dynamics, inventory investment, and expectation formation.
