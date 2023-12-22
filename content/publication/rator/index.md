@@ -1,5 +1,5 @@
 ---
-title: "Misspecified Expectations"
+title: "Misspecified Expectations Among Professional Forecasters"
 authors:
 - Julio L. Ortiz
 date: "2022-06-05T00:00:00Z"
@@ -18,8 +18,7 @@ publication_types: ["9"]
 # publication: Working Paper
 publication_short: ''
 
-abstract: Using data from professional forecasters, I find that a theory of misspecified expectations, in which forecasters’ perceived law of motion differs from the objective law of motion, outperforms alternative models in its ability to fit prediction errors and revisions. Misspecification is successful in part because it matches updating behavior in the data. My framework delivers a novel testable implication through which I provide robust evidence of misspecification-related overextrapolation across a range of macroeconomic variables. I conclude that misspecified expectations can serve as a suitable benchmark alternative to full information rational expectations.
-
+abstract: Analyzing professional forecasts, I find that a theory of expectation formation in which respondents' perceived law of motion differs from the objective law of motion, tends to outperform alternative models in its ability to fit prediction errors and revisions. Misspecified expectations outperforms the alternatives for a variety of macroeconomic aggregates and sub-samples. Misspecified expectations provides a successful description of the data in part because it is able to match patterns of overreaction, delayed overshooting, persistent disagreement, and updating behavior. I conclude that misspecified expectations can serve as a suitable theory to model expectation formation among professional forecasters.
 
 # Summary. An optional shortened abstract.
 summary: A theory in which forecasters adopt parsimonious models of richer underlying processes can serve as a suitable benchmark departure from full information rational expectations.
