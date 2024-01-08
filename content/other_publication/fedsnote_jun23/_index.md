@@ -12,7 +12,7 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent; 9 = Working Paper
-publication_types: ["0"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
 publication: 
