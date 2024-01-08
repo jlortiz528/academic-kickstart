@@ -3,7 +3,7 @@ title: "Accumulated Savings During the Pandemic: An International Comparison wit
 authors: "Francois de Soyres, Dylan Moore, and Julio Ortiz"
 
 date: "2023-06-20T00:00:00Z"
-doi: "https://doi.org/10.17016/2380-7172.3326"
+doi: "10.17016/2380-7172.3326"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
