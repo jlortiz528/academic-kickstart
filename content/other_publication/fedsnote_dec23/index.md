@@ -1,6 +1,9 @@
 ---
 title: "An update on Excess Savings in Selected Advanced Economies"
-authors: ''
+authors:
+- Francois de Soyres
+- Dylan Moore
+- Julio L. Ortiz
 
 date: "2023-12-20T00:00:00Z"
 doi: 
