@@ -15,15 +15,15 @@
     url = "files/cv_2023.pdf"
     weight = 20
     
-[[main]]
-  name = "Research"
-  url = "#publications"
-  weight = 30
-
-# [[main]]
-#  name = "Working Papers"
-#  url = "#featured"
+#[[main]]
+#  name = "Research"
+#  url = "#publications"
 #  weight = 30
+
+ [[main]]
+  name = "Working Papers"
+  url = "#featured"
+  weight = 30
 
   [[main]]
   name = "Policy Papers"
