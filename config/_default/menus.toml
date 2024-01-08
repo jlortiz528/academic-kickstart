@@ -21,14 +21,19 @@
 #  weight = 20
 
 [[main]]
-  name = "Research"
+  name = "Working Papers"
   url = "#featured"
   weight = 30
+
+  [[main]]
+  name = "Policy and Non-refereed Publications"
+  url = "#other_publication"
+  weight = 40
  
  [[main]]
   name = "Discussions"
   url = "#posts"
-  weight = 40
+  weight = 50
   
   #[[main]]
   #name = "Experience"
@@ -38,9 +43,9 @@
 [[main]]
   name = "Teaching"
   url = "courses/"
-  weight = 50
+  weight = 60
     
  [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
