@@ -29,7 +29,7 @@ featured: true
 
 links:
 # - name: Appendix
-# url: '[https://www.federalreserve.gov/econres/notes/feds-notes/accumulated-savings-during-the-pandemic-an-international-comparison-with-historical-perspective-20230623.html](https://doi.org/10.17016/2380-7172.3326)'
+ url: 'https://www.federalreserve.gov/econres/notes/feds-notes/accumulated-savings-during-the-pandemic-an-international-comparison-with-historical-perspective-20230623.htm'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
