@@ -1,9 +1,9 @@
 ---
-title: "Accumulated Savings During the Pandemic An International Comparison with Historical Perspective"
-authors: 
+title: "Accumulated Savings During the Pandemic: An International Comparison with Historical Perspective"
+authors: "Francois de Soyres, Dylan Moore, and Julio Ortiz"
 
 date: "2023-06-20T00:00:00Z"
-doi: ""
+doi: 10.17016/2380-7172.3326
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -29,7 +29,7 @@ featured: true
 
 links:
 # - name: Appendix
- url: 'https://www.federalreserve.gov/econres/notes/feds-notes/accumulated-savings-during-the-pandemic-an-international-comparison-with-historical-perspective-20230623.htm'
+# url: 'https://www.federalreserve.gov/econres/notes/feds-notes/accumulated-savings-during-the-pandemic-an-international-comparison-with-historical-perspective-20230623.htm'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
