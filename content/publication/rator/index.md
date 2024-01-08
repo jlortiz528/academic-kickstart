@@ -1,5 +1,5 @@
 ---
-title: "Misspecified Expectations Among Professional Forecasters (Revise and Resubmit, Journal of Money, Credit and Banking"
+title: "Misspecified Expectations Among Professional Forecasters (Revise and Resubmit, Journal of Money, Credit and Banking)"
 authors:
 - Julio L. Ortiz
 date: "2023-07-05T00:00:00Z"
