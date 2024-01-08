@@ -15,7 +15,7 @@ publishDate: "2020-05-01T00:00:00Z"
 publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
-publication: Job Market Paper
+publication: 
 publication_short:
 
 abstract: Widespread adoption of just-in-time (JIT) production has reduced inventory holdings. This paper quantifies a trade-off created by JIT between firm profitability and vulnerability to supply disruptions. Empirically, JIT adopters experience higher sales and less volatility on average while also exhibiting heightened sensitivity to aggregate supply conditions and weather events faced by their suppliers. I explain these facts in a structurally estimated general equilibrium model of JIT production. Relative to a counterfactual economy reflecting the 1970s and 1980s, the baseline model implies an 8.8% increase in firm profits in normal times but a substantially deeper contraction amid a supply disruption.
@@ -25,7 +25,7 @@ summary: Lean inventory management can be a profitable strategy, but it renders 
 
 tags:
 # - Source Themes
-featured: true
+featured: false
 
 links:
 # - name: Appendix
