@@ -29,7 +29,7 @@ featured: true
 
 links:
 # - name: Appendix
-# url: 'https://www.federalreserve.gov/econres/notes/feds-notes/accumulated-savings-during-the-pandemic-an-international-comparison-with-historical-perspective-20230623.htm'
+url: ''
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -54,11 +54,5 @@ image:
 projects:
 
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: ""
 ---
 
