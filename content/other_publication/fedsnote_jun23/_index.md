@@ -1,5 +1,5 @@
 ---
-title: "Accumulated Savings During the Pandemic: An International Comparison with Historical Perspective"
+title: "Accumulated Savings During the Pandemic An International Comparison with Historical Perspective"
 authors: 
 
 date: "2023-06-20T00:00:00Z"
