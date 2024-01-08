@@ -29,7 +29,7 @@ featured: true
 
 links:
 - name: Link
-  url: 'https://www.federalreserve.gov/econres/notes/feds-notes/accumulated-savings-during-the-pandemic-an-international-comparison-with-historical-perspective-20230623.htm'
+  url: 'federalreserve.gov/econres/notes/feds-notes/accumulated-savings-during-the-pandemic-an-international-comparison-with-historical-perspective-20230623.html'
 - name: VOX EU
   url: 'https://cepr.org/voxeu/columns/accumulated-savings-during-pandemic-international-comparison-historical-perspective'
 url_pdf: ''
