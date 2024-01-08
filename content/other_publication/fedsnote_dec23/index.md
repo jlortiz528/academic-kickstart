@@ -29,7 +29,7 @@ featured: true
 
 links:
 - name: Link
-  url: 'http://www.federalreserve.gov/econres/notes/feds-notes/accumulated-savings-during-the-pandemic-an-international-comparison-with-historical-perspective-20230623.html'
+  url: 'http://www.federalreserve.gov/econres/notes/feds-notes/an-update-on-excess-savings-in-selected-advanced-economies-20231215.html'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
