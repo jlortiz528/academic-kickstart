@@ -29,7 +29,7 @@ featured: true
 
 links:
 # - name: Appendix
-url: 'https://www.federalreserve.gov/econres/notes/feds-notes/an-update-on-excess-savings-in-selected-advanced-economies-20231215.htm'
+url: https://www.federalreserve.gov/econres/notes/feds-notes/an-update-on-excess-savings-in-selected-advanced-economies-20231215.htm
 url_pdf: ''
 url_code: ''
 url_dataset: ''
