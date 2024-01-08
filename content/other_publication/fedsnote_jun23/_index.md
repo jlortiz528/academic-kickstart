@@ -21,7 +21,7 @@ publication_short:
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: 'with Francois de Soyres and Dylan Moore'
+summary: with Francois de Soyres and Dylan Moore
 
 tags:
 # - Source Themes
