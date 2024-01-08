@@ -16,7 +16,7 @@ publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
 # publication: Working Paper
-publication_short: ''
+publication_short: 'Revise and Resubmit, Journal of Money, Credit and Banking'
 
 abstract: Analyzing professional forecasts, I find that a theory of expectation formation in which respondents' perceived law of motion differs from the objective law of motion, tends to outperform alternative models in its ability to fit prediction errors and revisions. Misspecified expectations outperforms the alternatives for a variety of macroeconomic aggregates and sub-samples. Misspecified expectations provides a successful description of the data in part because it is able to match patterns of overreaction, delayed overshooting, persistent disagreement, and updating behavior. I conclude that misspecified expectations can serve as a suitable theory to model expectation formation among professional forecasters.
 
