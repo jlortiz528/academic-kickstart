@@ -26,7 +26,7 @@
   weight = 30
 
   [[main]]
-  name = "Policy and Non-refereed Publications"
+  name = "Policy Papers"
   url = "#other_publication"
   weight = 40
  
