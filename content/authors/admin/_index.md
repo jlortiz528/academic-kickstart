@@ -21,6 +21,9 @@ social:
   - link: https://www.linkedin.com/in/julio-ortiz-52498137/
     icon_pack: fab
     icon: linkedin
+  - link: https://scholar.google.com/citations?user=yHdo_PgAAAAJ&hl=en
+    icon_pack: ai
+    icon: google-scholar
   # - icon: cv
    # icon_pack: ai
    # link: "files/cv_2023.pdf"
