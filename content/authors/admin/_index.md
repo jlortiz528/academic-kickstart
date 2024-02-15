@@ -1,7 +1,7 @@
 ---
 title: Julio L. Ortiz
 role: Economist, International Finance Division
-avatar_filename: avatar.jpg
+avatar_filename: avatar_2024.jpg
 organizations:
   - name: Federal Reserve Board
     url: "https://www.federalreserve.gov/"
