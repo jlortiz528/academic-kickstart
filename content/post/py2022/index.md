@@ -1,10 +1,10 @@
 ---
-title: "Aggregate Risk in the Term Stucture of Corporate Credit"
+# title: "Aggregate Risk in the Term Stucture of Corporate Credit"
 # authors:
- - DC-Area Juniors Finance Conference
+# - DC-Area Juniors Finance Conference
 
- date: "2022-05-20T00:00:00Z"
- doi: ""
+# date: "2022-05-20T00:00:00Z"
+# doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: ""
@@ -16,8 +16,8 @@ title: "Aggregate Risk in the Term Stucture of Corporate Credit"
 # publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: 
-publication_short:
+# publication: 
+# publication_short:
 
 abstract: 
 
@@ -36,7 +36,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
- url_slides: files/PY2022discussion.pdf
+# url_slides: files/PY2022discussion.pdf
 url_source: ''
 url_video: ''
 
