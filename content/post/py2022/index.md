@@ -1,5 +1,5 @@
 ---
-# title: "Aggregate Risk in the Term Stucture of Corporate Credit"
+title: "Aggregate Risk in the Term Stucture of Corporate Credit"
 # authors:
 # - DC-Area Juniors Finance Conference
 
@@ -36,7 +36,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-# url_slides: files/PY2022discussion.pdf
+url_slides: files/PY2022discussion.pdf
 url_source: ''
 url_video: ''
 
