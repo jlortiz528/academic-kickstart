@@ -1,6 +1,6 @@
 ---
 title: "Aggregate Risk in the Term Stucture of Corporate Credit"
-# authors:
+ authors:
  - DC-Area Juniors Finance Conference
 
  date: "2022-05-20T00:00:00Z"
