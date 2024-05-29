@@ -22,11 +22,11 @@ authors:
 abstract: 
 
 # Summary. An optional shortened abstract.
-# summary: by Johannes Poeschl and Ram Yamarthy
+summary: by Johannes Poeschl and Ram Yamarthy
 
 tags:
 # - Source Themes
-# featured: true
+featured: false
 
 links:
 # - name: Appendix
