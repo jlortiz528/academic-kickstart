@@ -26,7 +26,7 @@ summary: Updates to survey expectations exhibit an offsetting pattern that are i
 
 tags:
 # - Source Themes
-featured: true
+featured: false
 
 links:
 # - name: Appendix
