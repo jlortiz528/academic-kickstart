@@ -25,7 +25,7 @@ abstract: Analyzing professional forecasts, I find that a theory of expectation 
 summary: A theory in which forecasters adopt parsimonious models of richer underlying processes can serve as a suitable benchmark departure from full information rational expectations among professional forecasters.
 
 tags:
- # - Source Themes
+ - Source Themes
 featured: true
 
 links:
