@@ -28,7 +28,7 @@ summary: with Francois de Soyres and Dylan Moore
 
 tags:
 # - Source Themes
-featured: true
+featured: false
 
 links:
 - name: Link
