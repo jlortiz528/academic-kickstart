@@ -13,7 +13,7 @@ publishDate: "2022-06-01T00:00:00Z"
 # 3 = Preprint; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent; 9 = Working Paper
 # publication_types: ["9"]
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -26,7 +26,7 @@ summary: A theory in which forecasters adopt parsimonious models of richer under
 
 tags:
  - Source Themes
-featured: true
+featured: false
 
 links:
 url_pdf: files/me.pdf
