@@ -28,7 +28,7 @@ summary: with Francois de Soyres and Dylan Moore
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 - name: Link
@@ -36,13 +36,7 @@ links:
 - name: VOX EU
   url: 'https://cepr.org/voxeu/columns/accumulated-savings-during-pandemic-international-comparison-historical-perspective'
 url_pdf: ''
-url_code: ''
 url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
