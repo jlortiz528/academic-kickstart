@@ -12,7 +12,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "other_publication"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 4
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
