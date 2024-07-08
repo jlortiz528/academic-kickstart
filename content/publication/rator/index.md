@@ -2,7 +2,7 @@
 title: "Misspecified Expectations Among Professional Forecasters (Accepted, Journal of Money, Credit and Banking)"
 authors:
 - Julio L. Ortiz
-date: "2023-07-05T00:00:00Z"
+date: "2024-07-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
