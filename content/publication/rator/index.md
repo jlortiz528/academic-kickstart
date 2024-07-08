@@ -28,17 +28,14 @@ tags:
  - Source Themes
 featured: true
 
-links:
-- name: Appendix
-url: files/me_appendix.pdf
 url_pdf: files/me.pdf
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+
+links:
+- name: Online Appendix
+  url: pdf/supplemental_information.pdf
+# url_code: ''
+# url_dataset: ''
+# url_slides: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
