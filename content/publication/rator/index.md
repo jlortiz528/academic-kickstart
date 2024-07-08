@@ -32,7 +32,7 @@ url_pdf: files/me.pdf
 
 links:
 - name: Online Appendix
-  url: pdf/supplemental_information.pdf
+  url: files/me_appendix.pdf
 # url_code: ''
 # url_dataset: ''
 # url_slides: ''
