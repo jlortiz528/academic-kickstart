@@ -16,7 +16,7 @@ publishDate: "2020-05-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Working Paper
+publication: 
 publication_short: 
 
 abstract: Macroeconomic expectations among professional forecasters exhibit a puzzling pattern. Whereas individual forecasts robustly exhibit overreactions at the quarterly frequency, this is not the case at the annual frequency. Consistent with this finding, we provide evidence that forecasters partially offset their revisions within the calendar year. We explain these facts with a model of annual anchoring in which quarterly predictions must be consistent with annual predictions. We estimate our model to fit survey expectations and show that it provides a unified explanation for our empirical facts. Furthermore, our model yields frequency-specific estimates of information frictions which imply a larger role for inattention at the annual frequency.
