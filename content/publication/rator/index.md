@@ -30,6 +30,8 @@ featured: true
 
 links:
 url_pdf: files/me.pdf
+- name: Appendix
+url: files/me_appendix.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
