@@ -27,7 +27,7 @@ abstract:
 summary: with Francois de Soyres and Dylan Moore
 
 tags:
-# - Source Themes
+- Source Themes
 featured: true
 
 links:
