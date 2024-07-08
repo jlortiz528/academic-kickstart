@@ -1,5 +1,5 @@
 ---
-title: "Misspecified Expectations Among Professional Forecasters (Revise and Resubmit, Journal of Money, Credit and Banking)"
+title: "Misspecified Expectations Among Professional Forecasters (Accepted, Journal of Money, Credit and Banking)"
 authors:
 - Julio L. Ortiz
 date: "2023-07-05T00:00:00Z"
@@ -26,7 +26,7 @@ summary: A theory in which forecasters adopt parsimonious models of richer under
 
 tags:
  - Source Themes
-featured: false
+featured: true
 
 links:
 url_pdf: files/me.pdf
