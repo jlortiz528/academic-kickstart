@@ -32,10 +32,8 @@ featured: true
 links:
 # - name: Appendix
 #  url: ''
-- name: VOX EU
-  url: 'https://voxeu.org/article/impact-lean-inventories'
-# - name: IFDP 
-#  url: 'https://www.federalreserve.gov/econres/ifdp/household-excess-savings-and-the-transmission-of-monetary-policy.htm'
+- name: IFDP 
+  url: 'https://www.federalreserve.gov/econres/ifdp/household-excess-savings-and-the-transmission-of-monetary-policy.htm'
 url_pdf: files/excess_savings_mpol.pdf
 url_code: ''
 url_dataset: ''
