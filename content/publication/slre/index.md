@@ -1,5 +1,5 @@
 ---
-title: "Overreaction Through Anchoring (Submitted)"
+title: "Overreaction Through Anchoring"
 authors:
 - Julio L. Ortiz
 - Constantin Bürgi
