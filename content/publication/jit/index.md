@@ -25,7 +25,7 @@ summary: Lean inventory management can be a profitable strategy, but it renders 
 
 tags:
 # - Source Themes
-featured: true
+featured: false
 
 links:
 # - name: Appendix
