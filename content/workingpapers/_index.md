@@ -1,5 +1,5 @@
 ---
-title: workingpapers
+title: Publications
 cms_exclude: true
 
 # View.
@@ -14,4 +14,3 @@ header:
   caption: ""
   image: ""
 ---
-
