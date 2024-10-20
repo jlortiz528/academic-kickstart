@@ -26,7 +26,7 @@ summary: A theory in which forecasters adopt parsimonious models of richer under
 
 tags:
  - Source Themes
-featured: true
+featured: false
 
 url_pdf: files/me.pdf
 
