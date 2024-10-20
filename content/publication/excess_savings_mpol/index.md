@@ -27,7 +27,7 @@ summary: Household excess savings rose in the Euro area following the onset of t
 
 tags:
 # - Source Themes
-featured: true
+featured: false
 
 links:
 # - name: Appendix
