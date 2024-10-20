@@ -97,7 +97,7 @@ address = {street = "20th & C Street NW", city = "Washington", region = "DC", po
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "38.89314805837", longitude = "-77.0458484566544"}
+# coordinates = {latitude = "38.89314805837", longitude = "-77.0458484566544"}
 
 # Directions for visitors to locate you.
 #directions = "Office 514"
