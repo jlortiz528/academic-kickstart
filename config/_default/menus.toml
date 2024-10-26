@@ -22,7 +22,7 @@
 
  [[main]]
   name = "Research"
-  url = "#featured"
+  url = "#publications"
   weight = 30
 
   [[main]]
@@ -48,4 +48,4 @@
  [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 90
