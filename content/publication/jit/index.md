@@ -1,5 +1,5 @@
 ---
-title: "Spread Too Thin: The Impact of Lean Inventories (Revise and resubmit, Journal of Monetary Economics"
+title: "Spread Too Thin: The Impact of Lean Inventories"
 authors:
 - Julio L. Ortiz
 date: "2024-12-20T00:00:00Z"
