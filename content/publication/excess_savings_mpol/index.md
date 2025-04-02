@@ -17,7 +17,7 @@ publishDate: "2024-10-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: *International Journal of Central Banking* 21(2), 1-36,
+publication: *International Journal of Central Banking*
 publication_short: 
 
 abstract: Household savings rose above trend in many developed countries after the onset of COVID-19. Given its link to aggregate consumption, the presence of these ``excess savings’’ has raised questions about their implications for the transmission of monetary policy. Using a panel of euro-area economies and high-frequency monetary policy shocks, we document that household excess savings dampen the effects of monetary policy on economic activity and inflation, especially during the pandemic period. To rationalize our empirical findings, we build a New Keynesian model in which households use savings to self-insure against counter-cyclical unemployment and consumption risk.
