@@ -29,7 +29,7 @@ featured: true
 
 links:
 - name: Appendix
- url: 'files/jit_appendix.pdf'
+  url: files/jit_appendix.pdf
 - name: VOX EU
   url: 'https://voxeu.org/article/impact-lean-inventories'
 # - name: IFDP 
