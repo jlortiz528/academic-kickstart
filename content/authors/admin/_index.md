@@ -11,8 +11,8 @@ authors:
 bio: ""
 interests:
   - Macroeconomics
-  - Firm dynamics
-  - Inventory investment
+  - Monetary policy
+  - Firm investment
   - Expectation formation
 social:
   - icon: envelope
@@ -24,9 +24,9 @@ social:
   - link: https://scholar.google.com/citations?user=yHdo_PgAAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
-  # - icon: cv
-   # icon_pack: ai
-   # link: "files/cv_2023.pdf"
+  - icon: cv
+    icon_pack: ai
+    link: "files/cv_2025.pdf"
 education:
   courses:
     - course: "Ph.D. Economics "
