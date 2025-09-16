@@ -30,8 +30,8 @@ tags:
 featured: false
 
 links:
-# - name: Appendix
-#  url: ''
+ - name: Appendix
+  url: files/OTA_supplementary_materials.pdf
 url_pdf: files/OTA_draft.pdf
 url_code: files/OTA_replication.zip
 url_dataset: ''
