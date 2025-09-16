@@ -36,7 +36,7 @@ links:
   url: 'files/OTA_supplementary_materials.pdf'
 url_pdf: files/OTA_draft.pdf
 - name: Replication files
-  url: 'files/OTA_replication.pdf'
+  url: 'files/OTA_replication.zip'
 url_code: ''
 url_dataset: ''
 url_poster: ''
