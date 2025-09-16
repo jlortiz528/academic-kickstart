@@ -34,7 +34,8 @@ links:
 #  url: ''
 url_pdf: files/oes_draft.pdf
 - name: Replication package
-url: 'files/OTA_replication.zip'
+url: files/OTA_replication.zip
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
