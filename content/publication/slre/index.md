@@ -32,7 +32,7 @@ featured: false
 links:
 # - name: Appendix
 #  url: ''
-url_pdf: files/oes_draft.pdf
+url_pdf: files/OTA_draft.pdf
 url_code: files/OTA_replication.zip
 url_dataset: ''
 url_poster: ''
