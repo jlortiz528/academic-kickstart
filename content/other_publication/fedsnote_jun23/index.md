@@ -6,7 +6,7 @@ authors:
 - Julio L. Ortiz
 
 date: "2023-06-20T00:00:00Z"
-doi: 
+doi: https://doi.org/10.17016/2380-7172.3326
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -31,8 +31,6 @@ tags:
 featured: false
 
 links:
-- name: Link
-  url: 'http://www.federalreserve.gov/econres/notes/feds-notes/accumulated-savings-during-the-pandemic-an-international-comparison-with-historical-perspective-20230623.html'
 - name: VOX EU
   url: 'https://cepr.org/voxeu/columns/accumulated-savings-during-pandemic-international-comparison-historical-perspective'
 url_pdf: ''
