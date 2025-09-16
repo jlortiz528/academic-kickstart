@@ -6,7 +6,7 @@ authors:
 - Julio L. Ortiz
 
 date: "2023-12-20T00:00:00Z"
-doi: 
+doi: https://doi.org/10.17016/2380-7172.3426
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -31,8 +31,6 @@ tags:
 featured: false
 
 links:
-- name: Link
-  url: 'http://www.federalreserve.gov/econres/notes/feds-notes/an-update-on-excess-savings-in-selected-advanced-economies-20231215.html'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
