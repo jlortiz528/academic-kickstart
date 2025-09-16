@@ -31,8 +31,6 @@ tags:
 featured: false
 
 links:
-- name: Link
-  url: 'https://www.federalreserve.gov/econres/feds/reviews-of-foreign-central-banks-monetary-policy-frameworks-approaches-issues-and-outcomes.htm'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
