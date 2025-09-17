@@ -20,7 +20,7 @@ publication_types: ["9"]
 publication: 
 publication_short:
 
-abstract: Using industry-level data and measures of supply conditions, we estimate the elasticity of retail price margins with respect to inventories along the retailer's optimal pricing curve. We find that this elasticity is negative and statistically significant, consistent with higher retail price margins when retailers face greater costs of holding finished-good inventories. We then assess the implications of this channel for inflation dynamics within a New Keynesian Phillips curve (NKPC) framework that links inventories to retailers' markup behavior. Incorporating the inventory-sales ratio into the NKPC markedly improves the model's empirical fit and helps account for two notable recent inflation episodes: the missing disinflation of 2009--2011 and the COVID-era surge
+abstract: Using industry-level data and measures of supply conditions, we estimate the elasticity of retail price margins with respect to inventories along the retailer's optimal pricing curve. We find that this elasticity is negative and statistically significant, consistent with higher retail price margins when retailers face greater costs of holding finished-good inventories. We then assess the implications of this channel for inflation dynamics within a New Keynesian Phillips curve (NKPC) framework that links inventories to retailers' markup behavior. Incorporating the inventory-sales ratio into the NKPC markedly improves the model's empirical fit and helps account for two notable recent inflation episodes: the missing disinflation of 2009-2011 and the COVID-era surge.
 
 # Summary. An optional shortened abstract.
 summary: We estimate a negative elasticity of retail price margins with respect to inventories. We then embed this negative elasticity into a New Keynesian framework, derive a New Keynesian Phillips curve that links inventories to retail markups, and show that this NKPC offers an notable improvement over the canonical NKPC when taken to the data.
@@ -30,7 +30,7 @@ tags:
 featured: true
 
 links:
-#- name: Appendix
+# - name: Appendix
 #  url: files/jit_appendix.pdf
 # - name: VOX EU
 #  url: 'https://voxeu.org/article/impact-lean-inventories'
