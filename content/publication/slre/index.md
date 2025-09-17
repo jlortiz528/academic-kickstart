@@ -34,7 +34,7 @@ links:
 #  url: files/OTA_supplementary_materials.pdf
 - name: Supplementary materials 
   url: 'files/OTA_supplementary_materials.pdf'
-url_pdf: files/OTA_draft.pdf
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0169207025000706?dgcid=author'
 url_code: files/OTA_replication.zip
 url_dataset: ''
 url_poster: ''
