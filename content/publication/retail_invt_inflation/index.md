@@ -30,7 +30,7 @@ tags:
 featured: true
 
 links:
-url_pdf: 'files/retail_invt_inflation_MOO.pdf'
+url_pdf: files/retail_invt_inflation_MOO.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
