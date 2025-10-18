@@ -30,6 +30,8 @@ tags:
 featured: true
 
 links:
+- name: IFDP 
+  url: 'https://www.federalreserve.gov/econres/ifdp/retail-inventories-and-inflation-dynamics-the-price-margin-channel.htm'
 url_pdf: files/retail_invt_inflation_MOO.pdf
 url_code: ''
 url_dataset: ''
