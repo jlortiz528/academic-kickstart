@@ -33,7 +33,7 @@ links:
 # url_pdf: ''
 
 - name: Published version
- url: "https://doi.org/10.1111/jmcb.70000"
+  url: "https://doi.org/10.1111/jmcb.70000"
 
 - name: Working paper
   url: files/me.pdf
