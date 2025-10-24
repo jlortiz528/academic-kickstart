@@ -32,9 +32,11 @@ featured: false
 links:
 # - name: Appendix
 #  url: ''
-- name: IFDP 
+- name: Published version
+  url: 'https://www.ijcb.org/journal/ijcb25q2a1.pdf'
+- name: Working paper 
   url: 'https://www.federalreserve.gov/econres/ifdp/household-excess-savings-and-the-transmission-of-monetary-policy.htm'
-url_pdf: 'https://www.ijcb.org/journal/ijcb25q2a1.pdf'
+# url_pdf
 # files/excess_savings_mpol.pdf
 url_code: ''
 url_dataset: ''
