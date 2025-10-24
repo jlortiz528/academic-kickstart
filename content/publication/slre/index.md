@@ -32,9 +32,13 @@ featured: false
 links:
 # - name: Appendix
 #  url: files/OTA_supplementary_materials.pdf
+- name: Published version
+  url: 'https://www.sciencedirect.com/science/article/pii/S0169207025000706?dgcid=author'
+- name: Working paper
+  url: files/OTA_draft.pdf
 - name: Supplementary materials 
   url: 'files/OTA_supplementary_materials.pdf'
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0169207025000706?dgcid=author'
+# url_pdf
 url_code: files/OTA_replication.zip
 url_dataset: ''
 url_poster: ''
