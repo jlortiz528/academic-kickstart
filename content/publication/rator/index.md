@@ -3,7 +3,7 @@ title: "Misspecified Expectations Among Professional Forecasters"
 authors:
 - Julio L. Ortiz
 date: "2024-07-07T00:00:00Z"
-doi: "https://doi.org/10.1111/jmcb.70000"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-06-01T00:00:00Z"
@@ -27,8 +27,10 @@ summary: A theory in which forecasters adopt parsimonious models of richer under
 tags:
  - Source Themes
 featured: false
-
-url_pdf: files/me.pdf
+- name: Published version
+url: "https://doi.org/10.1111/jmcb.70000"
+- name: Working paper
+url: files/me.pdf
 
 links:
 - name: Online Appendix
