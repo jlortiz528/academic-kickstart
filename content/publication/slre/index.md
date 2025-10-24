@@ -39,7 +39,7 @@ links:
 - name: Supplementary materials 
   url: 'files/OTA_supplementary_materials.pdf'
 # url_pdf
-- name: Replication code
+- name: Replication files
   url: files/OTA_replication.zip
 url_dataset: ''
 url_poster: ''
