@@ -3,7 +3,7 @@ title: "Misspecified Expectations Among Professional Forecasters"
 authors:
 - Julio L. Ortiz
 date: "2024-07-07T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1111/jmcb.70000"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-06-01T00:00:00Z"
