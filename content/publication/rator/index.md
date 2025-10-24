@@ -3,7 +3,7 @@ title: "Misspecified Expectations Among Professional Forecasters"
 authors:
 - Julio L. Ortiz
 date: "2024-07-07T00:00:00Z"
-doi: ""
+doi: "https://doi.org.10.1111/jmcb.70000"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-06-01T00:00:00Z"
@@ -16,7 +16,7 @@ publishDate: "2022-06-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Forthcoming, *Journal of Money, Credit and Banking*
+publication: *Journal of Money, Credit and Banking*
 publication_short: ""
 
 abstract: Analyzing professional forecasts, I find that a model of expectation formation in which respondents misperceive the true law of motion of the data generating process, which in turn causes them to form an erroneous view of its underlying persistence, tends to outperform alternative models when fit to forecast errors and revisions. Misspecified expectations outperforms the alternatives for a variety of macroeconomic aggregates both in and out of sample. Misspecified expectations is successful in fitting the data in part because it allows forecast errors to be longer lived. I conclude that misspecified expectations can serve as a suitable approach to model expectation formation among professional forecasters.
