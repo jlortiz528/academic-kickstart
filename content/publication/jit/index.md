@@ -28,14 +28,14 @@ tags:
 featured: true
 
 links:
+- name: Working paper
+  url: files/jit.pdf
 - name: Appendix
   url: files/jit_appendix.pdf
 - name: VOX EU
   url: 'https://voxeu.org/article/impact-lean-inventories'
 # - name: IFDP 
 #  url: 'https://www.federalreserve.gov/econres/ifdp/spread-too-thin-the-impact-of-lean-inventories.htm'
-- name: Working paper
-  url: files/jit.pdf
 url_pdf: ''
 url_code: ''
 url_dataset: ''
