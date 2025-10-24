@@ -28,10 +28,16 @@ tags:
  - Source Themes
 featured: false
 
-- name: Working paper
-url: files/me.pdf
-
 links:
+
+# url_pdf: ''
+
+# - name: Published version
+# url: "https://doi.org/10.1111/jmcb.70000"
+
+- name: Working paper
+  url: files/me.pdf
+
 - name: Online Appendix
   url: files/MS22-380Appendix.pdf
 # url_code: ''
