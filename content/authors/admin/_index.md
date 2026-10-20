@@ -42,6 +42,6 @@ email: jlortiz@bu.edu
 user_groups:
   - ""
 ---
-Welcome! I am a senior economist in the International Finance Division of the Federal Reserve Board.
+Welcome! I am a principal economist in the International Finance Division of the Federal Reserve Board.
 
 My research interests are in macroeconomics with a focus on monetary policy, firm investment, and expectation formation.
