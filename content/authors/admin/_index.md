@@ -1,6 +1,6 @@
 ---
 title: Julio L. Ortiz
-role: Senior Economist, International Finance Division
+role: Principal Economist, International Finance Division
 avatar_filename: avatar.jpg
 organizations:
   - name: Federal Reserve Board
