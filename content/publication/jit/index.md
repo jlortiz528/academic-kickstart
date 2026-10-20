@@ -3,7 +3,7 @@ title: "Spread Too Thin: The Impact of Lean Inventories"
 authors:
 - Julio L. Ortiz
 date: "2026-03-20T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.jmoneco.2026.103932"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-05-01T00:00:00Z"
@@ -13,7 +13,7 @@ publishDate: "2020-05-01T00:00:00Z"
 # 3 = Preprint; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent; 9 = Working Paper
 # publication_types: ["9"]
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: *Journal of Monetary Economics*
