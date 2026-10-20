@@ -3,7 +3,7 @@ title: "Spread Too Thin: The Impact of Lean Inventories"
 authors:
 - Julio L. Ortiz
 date: "2026-03-20T00:00:00Z"
-doi: "https://doi.org/10.1016/j.jmoneco.2026.103932"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-05-01T00:00:00Z"
@@ -29,6 +29,8 @@ tags:
 featured: false
 
 links:
+- name: Published version
+  url: 'https://doi.org/10.1016/j.jmoneco.2026.103932'
 - name: Working paper
   url: files/jit.pdf
 - name: Appendix
