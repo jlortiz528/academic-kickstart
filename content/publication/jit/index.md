@@ -13,10 +13,10 @@ publishDate: "2020-05-01T00:00:00Z"
 # 3 = Preprint; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent; 9 = Working Paper
 # publication_types: ["9"]
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: *Journal of Monetary Economics*
+publication: _Journal of Monetary Economics_, 159
 publication_short:
 
 abstract: Widespread adoption of just-in-time (JIT) production has reduced inventory holdings. This paper measures the share of publicly traded manufacturing firms that adopted JIT since 1980 and quantifies a trade-off created by JIT between firm profitability and vulnerability to supply disruptions. Empirically, JIT adopters experience higher sales and less volatility on average while also exhibiting heightened sensitivity to aggregate supply chain pressures. I explain these facts in a structurally estimated general equilibrium model of JIT production. Relative to a counterfactual economy without JIT, the baseline model implies higher firm profitability in normal times but a deeper contraction amid a supply disruption. Moreover, a transition to an equilibrium with less JIT and larger inventory buffers leads to a roughly 4% output loss.
